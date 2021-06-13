@@ -1,0 +1,2938 @@
+fileFormatVersion: 2
+guid: 76159f33c3ae37f46b9757581c929167
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2247587237551725521
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_0
+  - first:
+      213: 7677123849554043984
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_1
+  - first:
+      213: -7190649812447473743
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_2
+  - first:
+      213: 2408051758524760329
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_3
+  - first:
+      213: 8039823055328614031
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_4
+  - first:
+      213: -4264992005638537711
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_5
+  - first:
+      213: 3499071904389893460
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_6
+  - first:
+      213: -1705614509693429434
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_7
+  - first:
+      213: 1898620204423685448
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_8
+  - first:
+      213: 6663758074904475385
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_9
+  - first:
+      213: 8508383183173131369
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_10
+  - first:
+      213: -412532496436715527
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_11
+  - first:
+      213: -5131595565198038225
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_12
+  - first:
+      213: -1873450024867703961
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_13
+  - first:
+      213: -8790471871440395353
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_14
+  - first:
+      213: -7152526053228120801
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_15
+  - first:
+      213: 3906216323450735814
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_16
+  - first:
+      213: -6369829365182470455
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_17
+  - first:
+      213: -1910626553806599502
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_18
+  - first:
+      213: 7224865173702934538
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_19
+  - first:
+      213: -6730955180718906666
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_20
+  - first:
+      213: 8101504646256881820
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_21
+  - first:
+      213: -4074856211441164163
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_22
+  - first:
+      213: -7883568989551320674
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_23
+  - first:
+      213: -8321396816575488902
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_24
+  - first:
+      213: 5527342563794496280
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_25
+  - first:
+      213: -6607953873605616963
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_26
+  - first:
+      213: -8962618914372933951
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_27
+  - first:
+      213: 980247323574891053
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_28
+  - first:
+      213: -6512083757310429891
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_29
+  - first:
+      213: 4267168794135194059
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_30
+  - first:
+      213: 8255303283935944040
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_31
+  - first:
+      213: 8722936878957245312
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_32
+  - first:
+      213: -201667219248791622
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_33
+  - first:
+      213: 3210088308641395320
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_34
+  - first:
+      213: 6195033600909323212
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_35
+  - first:
+      213: -7710574763778851878
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_36
+  - first:
+      213: 1614556318532964350
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_37
+  - first:
+      213: 5246224265409960539
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_38
+  - first:
+      213: 410646653493093146
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_39
+  - first:
+      213: 6807766216747964307
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_40
+  - first:
+      213: 692124314588800996
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_41
+  - first:
+      213: 3699923468829318507
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_42
+  - first:
+      213: 8533180985266993740
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_43
+  - first:
+      213: 4746695093446912446
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_44
+  - first:
+      213: 174608775971885809
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_45
+  - first:
+      213: -1050724058026903669
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_46
+  - first:
+      213: -2355273622870805161
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_47
+  - first:
+      213: -5864419461973884318
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_48
+  - first:
+      213: 3327875933913276223
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_49
+  - first:
+      213: 4746324147976418248
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_50
+  - first:
+      213: 5371223425087473808
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_51
+  - first:
+      213: -5006843019689758430
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_52
+  - first:
+      213: -5328652590222138166
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_53
+  - first:
+      213: 5577620748900252566
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_54
+  - first:
+      213: 5588936589338832343
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_55
+  - first:
+      213: 6527349983960524396
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_56
+  - first:
+      213: -3352992015493505549
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_57
+  - first:
+      213: 8273452952855041934
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_58
+  - first:
+      213: 5943405960030358708
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_59
+  - first:
+      213: 8134684875700283799
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_60
+  - first:
+      213: -5407111449035768711
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_61
+  - first:
+      213: -8919947324262257104
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_62
+  - first:
+      213: -7707899890951407423
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_63
+  - first:
+      213: -4031735109885675239
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_64
+  - first:
+      213: -3850620235113591768
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_65
+  - first:
+      213: -9010290407232413497
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_66
+  - first:
+      213: 8854607498575091098
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_67
+  - first:
+      213: 4680858701434907116
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_68
+  - first:
+      213: 2289684588238972332
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_69
+  - first:
+      213: 7965693208518968711
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_70
+  - first:
+      213: -7378666785790696659
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_71
+  - first:
+      213: -8435580073607739074
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_72
+  - first:
+      213: -3465949907271559844
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_73
+  - first:
+      213: -6334609907522273247
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_74
+  - first:
+      213: -3042635078333194070
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_75
+  - first:
+      213: 417341945711016834
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_76
+  - first:
+      213: 6039240008179381013
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_77
+  - first:
+      213: 7437431516276233472
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_78
+  - first:
+      213: -5316530724089788605
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_79
+  - first:
+      213: -8636242436118817946
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_80
+  - first:
+      213: 432823496986414183
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_81
+  - first:
+      213: -4592410740709752258
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_82
+  - first:
+      213: 2220446815977403380
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_83
+  - first:
+      213: 3134758161085293968
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_84
+  - first:
+      213: 3914863843894407510
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_85
+  - first:
+      213: 4705548246046572922
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_86
+  - first:
+      213: 7721106517486069057
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_87
+  - first:
+      213: -2287080520513421690
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_88
+  - first:
+      213: 896572068890153617
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_89
+  - first:
+      213: -1344246188121987503
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_90
+  - first:
+      213: 2872697082090591031
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_91
+  - first:
+      213: -2660863554247272041
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_92
+  - first:
+      213: -2744739992098389083
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_93
+  - first:
+      213: -3028757023810413423
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_94
+  - first:
+      213: 7390000211750648
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_95
+  - first:
+      213: -2342654886301111068
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_96
+  - first:
+      213: 3828869786415458416
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_97
+  - first:
+      213: -4185375894003757638
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_98
+  - first:
+      213: -4621414547664916023
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_99
+  - first:
+      213: -6930289396113934188
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_100
+  - first:
+      213: 3427127014923861467
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_101
+  - first:
+      213: -664143215941969753
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_102
+  - first:
+      213: 6229618908943442078
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_103
+  - first:
+      213: -5981156757314785630
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_104
+  - first:
+      213: 5931520222305985359
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_105
+  - first:
+      213: -5423771435308101838
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_106
+  - first:
+      213: 470306149643013980
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_107
+  - first:
+      213: -8494229592339039449
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_108
+  - first:
+      213: -1035014970776523661
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_109
+  - first:
+      213: -6337552222363019264
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_110
+  - first:
+      213: 6583839712555398228
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_111
+  - first:
+      213: 8356109857736044193
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_112
+  - first:
+      213: -4252370239426940033
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_113
+  - first:
+      213: 8170751308721607304
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_114
+  - first:
+      213: 5464709933584575379
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_115
+  - first:
+      213: -7493449214192391048
+    second: GB_Ranger_SpriteSheet_Free_Unlabelled_116
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 185
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbd8ff2fa8013f10800000000000000
+      internalID: 2247587237551725521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 185
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054295d477f9a8a60800000000000000
+      internalID: 7677123849554043984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 185
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfc6d0e71ea53c90800000000000000
+      internalID: -7190649812447473743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 185
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9018f93e05e1b6120800000000000000
+      internalID: 2408051758524760329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 185
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f869bd5d870339f60800000000000000
+      internalID: 8039823055328614031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 184
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11eb8062e54bfc4c0800000000000000
+      internalID: -4264992005638537711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_6
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 185
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d85b0bb533f8030800000000000000
+      internalID: 3499071904389893460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 184
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64998f1e3a07458e0800000000000000
+      internalID: -1705614509693429434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 184
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845ad004401495a10800000000000000
+      internalID: 1898620204423685448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 185
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f672dbb9ac6a7c50800000000000000
+      internalID: 6663758074904475385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 184
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c11fdfc69d31670800000000000000
+      internalID: 8508383183173131369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 185
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff959351e3664af0800000000000000
+      internalID: -412532496436715527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_12
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 185
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ba6659509e8c8b0800000000000000
+      internalID: -5131595565198038225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_13
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 185
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763505bd02b2006e0800000000000000
+      internalID: -1873450024867703961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 184
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a36bb62868f10680800000000000000
+      internalID: -8790471871440395353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_15
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 32
+        width: 73
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f157c96437f1dbc90800000000000000
+      internalID: -7152526053228120801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 161
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc0d17dc0ba53630800000000000000
+      internalID: 3906216323450735814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_17
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 161
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c66270f0f1d997a0800000000000000
+      internalID: -6369829365182470455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_18
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 161
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bacde1b5471c75e0800000000000000
+      internalID: -1910626553806599502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_19
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 161
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0087a4b890e34460800000000000000
+      internalID: 7224865173702934538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 162
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2ac2edce7d692a0800000000000000
+      internalID: -6730955180718906666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_21
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 161
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90715a5d835e6070800000000000000
+      internalID: 8101504646256881820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_22
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 162
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70614e7dd33377c0800000000000000
+      internalID: -4074856211441164163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_23
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 161
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91228fd5cfe79290800000000000000
+      internalID: -7883568989551320674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_24
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 161
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c93f81fa5748c80800000000000000
+      internalID: -8321396816575488902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_25
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 161
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b2ed2d6c015bc40800000000000000
+      internalID: 5527342563794496280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_26
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 161
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba129f56f4db44a0800000000000000
+      internalID: -6607953873605616963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_27
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 161
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6aa9755916e9380800000000000000
+      internalID: -8962618914372933951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_28
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 161
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2275b94fb98a9d00800000000000000
+      internalID: 980247323574891053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 161
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35bbe1435e60a5a0800000000000000
+      internalID: -6512083757310429891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 161
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc96f0be867083b30800000000000000
+      internalID: 4267168794135194059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_31
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 161
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d1e18299ab09270800000000000000
+      internalID: 8255303283935944040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 137
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083b66410e81e0970800000000000000
+      internalID: 8722936878957245312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_33
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 137
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfb5d98bb8833df0800000000000000
+      internalID: -201667219248791622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_34
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 137
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87274361f468c8c20800000000000000
+      internalID: 3210088308641395320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_35
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 137
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb2fc1cc3e29f550800000000000000
+      internalID: 6195033600909323212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_36
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 137
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbbedeca198ef490800000000000000
+      internalID: -7710574763778851878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_37
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 137
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff050cda6e086610800000000000000
+      internalID: 1614556318532964350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_38
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 137
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a9bc77c255ec840800000000000000
+      internalID: 5246224265409960539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_39
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 137
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13a8a5a4f8e2b500800000000000000
+      internalID: 410646653493093146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_40
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 137
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397da271e4b0a7e50800000000000000
+      internalID: 6807766216747964307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_41
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 136
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7e977a56bea9900800000000000000
+      internalID: 692124314588800996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_42
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 137
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dd3b7bac4c85330800000000000000
+      internalID: 3699923468829318507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_43
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 136
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4af4f635e2fb6670800000000000000
+      internalID: 8533180985266993740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_44
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 137
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb92ef5d906afd140800000000000000
+      internalID: 4746695093446912446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_45
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 137
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f25872b1c55c6200800000000000000
+      internalID: 174608775971885809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 137
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87795449041b61f0800000000000000
+      internalID: -1050724058026903669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_47
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 113
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75530f76e13605fd0800000000000000
+      internalID: -2355273622870805161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_48
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 113
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262c82302956d9ea0800000000000000
+      internalID: -5864419461973884318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_49
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 113
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fd871b78dfe2e20800000000000000
+      internalID: 3327875933913276223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_50
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 113
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c33efc5aa45ed140800000000000000
+      internalID: 4746324147976418248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_51
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 113
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09888954f3b6a8a40800000000000000
+      internalID: 5371223425087473808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_52
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 114
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2217f3d0dce148ab0800000000000000
+      internalID: -5006843019689758430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_53
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 113
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4285c93b2dc06b0800000000000000
+      internalID: -5328652590222138166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_54
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 114
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b3c060580b76d40800000000000000
+      internalID: 5577620748900252566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_55
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 113
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd69bf6734ef8d40800000000000000
+      internalID: 5588936589338832343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_56
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 113
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c666e9e1a3ec59a50800000000000000
+      internalID: 6527349983960524396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_57
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 113
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdd9cdd687c771d0800000000000000
+      internalID: -3352992015493505549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_58
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 113
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87d4d040a531d270800000000000000
+      internalID: 8273452952855041934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_59
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 113
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc8c8b2b383b7250800000000000000
+      internalID: 5943405960030358708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_60
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 113
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799abd78bc434e070800000000000000
+      internalID: 8134684875700283799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 113
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c764309c416f4b0800000000000000
+      internalID: -5407111449035768711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_62
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 65
+        width: 12
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ee6222b2bf53480800000000000000
+      internalID: -8919947324262257104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_63
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 89
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8b19b23e9080590800000000000000
+      internalID: -7707899890951407423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_64
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 65
+        width: 12
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9193bc257466c08c0800000000000000
+      internalID: -4031735109885675239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_65
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 89
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c8f113c49df8ac0800000000000000
+      internalID: -3850620235113591768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_66
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 89
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c06dc9fc9405f280800000000000000
+      internalID: -9010290407232413497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_67
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 89
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9514123b92e1ea70800000000000000
+      internalID: 8854607498575091098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_68
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 89
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9e2de4030c5f040800000000000000
+      internalID: 4680858701434907116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_69
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 89
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5aba1700896cf10800000000000000
+      internalID: 2289684588238972332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_70
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 89
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785c383e4c3db8e60800000000000000
+      internalID: 7965693208518968711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_71
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 89
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23e8f4f6a5b99990800000000000000
+      internalID: -7378666785790696659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_72
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 89
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e394f3edd9cceea80800000000000000
+      internalID: -8435580073607739074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_73
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 89
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55d7c73ce876efc0800000000000000
+      internalID: -3465949907271559844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_74
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 94
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120077fe9d1f618a0800000000000000
+      internalID: -6334609907522273247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_75
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0aece448366c5d0800000000000000
+      internalID: -3042635078333194070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_76
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 65
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bb9f7d942bac500800000000000000
+      internalID: 417341945711016834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_77
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 65
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513fbd84ac0bfc350800000000000000
+      internalID: 6039240008179381013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_78
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 65
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00590f01f80173760800000000000000
+      internalID: 7437431516276233472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_79
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 66
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3478d218973e736b0800000000000000
+      internalID: -5316530724089788605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_80
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 65
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663dbf8d247e52880800000000000000
+      internalID: -8636242436118817946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_81
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 66
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c41546da2b10600800000000000000
+      internalID: 432823496986414183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 65
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e328e4153ca7440c0800000000000000
+      internalID: -4592410740709752258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_83
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 65
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3fafc5d9c90de10800000000000000
+      internalID: 2220446815977403380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_84
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 64
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095ee3850f5e08b20800000000000000
+      internalID: 3134758161085293968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_85
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 66
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651b8579ce3645630800000000000000
+      internalID: 3914863843894407510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_86
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 32
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71811fd2377d4140800000000000000
+      internalID: 4705548246046572922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_87
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 41
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145e5bf2871e62b60800000000000000
+      internalID: 7721106517486069057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_88
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 40
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ef4125268a240e0800000000000000
+      internalID: -2287080520513421690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_89
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 41
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1921cb1eb83417c00800000000000000
+      internalID: 896572068890153617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_90
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 17
+        width: 12
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156e05ac637485de0800000000000000
+      internalID: -1344246188121987503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_91
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 41
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7339f45a6ceddd720800000000000000
+      internalID: 2872697082090591031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_92
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 41
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799de4df1b6b21bd0800000000000000
+      internalID: -2660863554247272041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_93
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 41
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3ca2af489b8e9d0800000000000000
+      internalID: -2744739992098389083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_94
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 41
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c9fcca881b7f5d0800000000000000
+      internalID: -3028757023810413423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_95
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 41
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fee2818a214a1000800000000000000
+      internalID: 7390000211750648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_96
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 41
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec60b6fac73d7fd0800000000000000
+      internalID: -2342654886301111068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_97
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 41
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078e486d8c0e22530800000000000000
+      internalID: 3828869786415458416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_98
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 42
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd4c6aacce8ae5c0800000000000000
+      internalID: -4185375894003757638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 24
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c13c9644ff6ddfb0800000000000000
+      internalID: -4621414547664916023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_100
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 11
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498f8f1338aa2df90800000000000000
+      internalID: -6930289396113934188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_101
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 17
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd7ea4ccd99f8f20800000000000000
+      internalID: 3427127014923861467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_102
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 17
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a81bcd834d78c6f0800000000000000
+      internalID: -664143215941969753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_103
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 18
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9061a9446d047650800000000000000
+      internalID: 6229618908943442078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_104
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 17
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae23566e99aefca0800000000000000
+      internalID: -5981156757314785630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_105
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 18
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f432894373ef05250800000000000000
+      internalID: 5931520222305985359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_106
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 17
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fcc8fad94eab4b0800000000000000
+      internalID: -5423771435308101838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_107
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 24
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f472983fcd68600800000000000000
+      internalID: 470306149643013980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_108
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 32
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b350ca03f6e1a80800000000000000
+      internalID: -8494229592339039449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_109
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 24
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c67a92e53e2a1f0800000000000000
+      internalID: -1035014970776523661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_110
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 11
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0089090e4dd7c08a0800000000000000
+      internalID: -6337552222363019264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_111
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 9
+        width: 46
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45479fcf55f7e5b50800000000000000
+      internalID: 6583839712555398228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_112
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae2f7e94add6f370800000000000000
+      internalID: 8356109857736044193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_113
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73b3891ccb8cf4c0800000000000000
+      internalID: -4252370239426940033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_114
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 0
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882d8685607546170800000000000000
+      internalID: 8170751308721607304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_115
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b6bd73bbc86db40800000000000000
+      internalID: 5464709933584575379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Ranger_SpriteSheet_Free_Unlabelled_116
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 17
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ce1a544abe10890800000000000000
+      internalID: -7493449214192391048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
