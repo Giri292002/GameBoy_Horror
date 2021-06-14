@@ -159,6 +159,10 @@ PrefabInstance:
       value: EnemyAIController
       objectReference: {fileID: 0}
     - target: {fileID: 5602546194415043543, guid: 1f3bc8596075eea4ca40e019ed821c84, type: 3}
+      propertyPath: maxAcceleration
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 5602546194415043543, guid: 1f3bc8596075eea4ca40e019ed821c84, type: 3}
       propertyPath: endReachedDistance
       value: 0.15
       objectReference: {fileID: 0}
@@ -167,12 +171,44 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6489100974324047674, guid: 1f3bc8596075eea4ca40e019ed821c84, type: 3}
+      propertyPath: _FOV
+      value: 
+      objectReference: {fileID: 6620099691734805192}
+    - target: {fileID: 6489100974324047674, guid: 1f3bc8596075eea4ca40e019ed821c84, type: 3}
       propertyPath: _aiFSM
       value: 
       objectReference: {fileID: 656510191}
     - target: {fileID: 6489100974324047674, guid: 1f3bc8596075eea4ca40e019ed821c84, type: 3}
+      propertyPath: _sprite
+      value: 
+      objectReference: {fileID: 6701177691338602800}
+    - target: {fileID: 6489100974324047674, guid: 1f3bc8596075eea4ca40e019ed821c84, type: 3}
+      propertyPath: freezeSeconds
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6489100974324047674, guid: 1f3bc8596075eea4ca40e019ed821c84, type: 3}
+      propertyPath: maxChaseSpeed
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6489100974324047674, guid: 1f3bc8596075eea4ca40e019ed821c84, type: 3}
       propertyPath: PathsToGo.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6489100974324047674, guid: 1f3bc8596075eea4ca40e019ed821c84, type: 3}
+      propertyPath: _spriteDarkenColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6489100974324047674, guid: 1f3bc8596075eea4ca40e019ed821c84, type: 3}
+      propertyPath: _spriteDarkenColor.b
+      value: 0.047380395
+      objectReference: {fileID: 0}
+    - target: {fileID: 6489100974324047674, guid: 1f3bc8596075eea4ca40e019ed821c84, type: 3}
+      propertyPath: _spriteDarkenColor.g
+      value: 0.2735849
+      objectReference: {fileID: 0}
+    - target: {fileID: 6489100974324047674, guid: 1f3bc8596075eea4ca40e019ed821c84, type: 3}
+      propertyPath: _spriteDarkenColor.r
+      value: 0.024519395
       objectReference: {fileID: 0}
     - target: {fileID: 6489100974324047674, guid: 1f3bc8596075eea4ca40e019ed821c84, type: 3}
       propertyPath: _pathsToGo.Array.size
@@ -229,6 +265,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f1695724429eb149bf36f44815f38e7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!212 &6701177691338602800 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 513423565095376103, guid: 1f3bc8596075eea4ca40e019ed821c84, type: 3}
+  m_PrefabInstance: {fileID: 6620099691571932631}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6620099691734805192 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2052572959, guid: 1f3bc8596075eea4ca40e019ed821c84, type: 3}
+  m_PrefabInstance: {fileID: 6620099691571932631}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &6701177690951130463
 PrefabInstance:
   m_ObjectHideFlags: 0

@@ -7,36 +7,46 @@ using UnityEngine;
 public class AIController : MonoBehaviour
 {
 
+    [Header("Player Variables")]
     [SerializeField]
     private float _randomPointRadius = 5.0f;
-
     [SerializeField]
     private float freezeSeconds = 2.0f;
-
     [SerializeField]
     private Animator _anim;
-
+    [SerializeField]
+    private SpriteRenderer _sprite;
     [SerializeField]
     private Animator _flashLightAnimator;
     [SerializeField]
     private GameObject _FOV;
     private Rigidbody2D _rb;
 
-    public GameObject _player;
+    [SerializeField]
+    private Color _spriteDarkenColor;
 
+    [Space(10)]
+
+    [Header("Waypoints")]
     [SerializeField]
     private WayPoint[] _pathsToGo;
     private int index = 0;
 
+    [Space(10)]
+
     //AI Variables
     public IAstarAI _ai;
     [SerializeField]
+    [Header("AI")]
     public Animator _aiFSM;
-    public AIStates _aiState = AIStates.idle;
-
     public float maxWalkSpeed = 0.3f;
     public float maxChaseSpeed = 1.1f;
 
+    [Space(10)]
+
+    [Header("Public, don't touch")]
+    public AIStates _aiState = AIStates.idle;
+    public GameObject _player;
     public Vector3 position
     {
         get
@@ -106,7 +116,7 @@ public class AIController : MonoBehaviour
         chase,
         freeze
     }
-
+    //------------------------------- FREEZE FUNCTIONS -------------------------------
     public void FreezeTimer()
     {
         _FOV.GetComponent<PolygonCollider2D>().enabled = false;
@@ -125,6 +135,30 @@ public class AIController : MonoBehaviour
         _FOV.SetActive(true);
         _FOV.GetComponent<PolygonCollider2D>().enabled = true;
         _aiFSM.SetTrigger("Patrol");
+    }
+    // ------------------------------- CHASE PLAYER -------------------------------
+
+    public void StartAttacking()
+    {
+        _FOV.GetComponent<PolygonCollider2D>().enabled = false;
+        _FOV.SetActive(false);
+        StartCoroutine(FlashEnemy());
+
+    }
+
+    private IEnumerator FlashEnemy()
+    {
+        while (_aiState == AIStates.chase)
+        {
+            _sprite.color = _spriteDarkenColor;
+            Debug.Log("Dark");
+            yield return new WaitForSeconds(0.1f);
+            _sprite.color = new Vector4(255, 255, 255, 255);
+            Debug.Log("White");
+            yield return new WaitForSeconds(0.1f);
+        }
+        _sprite.color = new Vector4(255, 255, 255, 255);
+        yield return null;
     }
 
 

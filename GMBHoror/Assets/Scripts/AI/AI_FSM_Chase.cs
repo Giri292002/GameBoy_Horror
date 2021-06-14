@@ -10,7 +10,7 @@ public class AI_FSM_Chase : AI_FSM_Parent
         base.OnStateEnter(animator, stateInfo, layerIndex);
         _ai._aiState = AIController.AIStates.chase;
         _ai._ai.maxSpeed = _ai.maxChaseSpeed;
-
+        _ai.StartAttacking();
         _ai.SetPatrolDestination(_ai._player.transform.position);
     }
 
