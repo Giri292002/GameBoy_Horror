@@ -4,6 +4,9 @@
 [RequireComponent(typeof(Rigidbody2D))]
 public class PlayerController : MonoBehaviour
 {
+    [SerializeField]
+    private Animator _flashLightAnimator;
+
     // Local rigidbody variable to hold a reference to the attached Rigidbody2D component
     new Rigidbody2D rigidbody2D;
     private Animator _animator;
@@ -28,8 +31,14 @@ public class PlayerController : MonoBehaviour
     {
         UpdateInputValues();
         UpdateAnimations();
-        Move();
+    }
 
+    /// <summary>
+    /// This function is called every fixed framerate frame, if the MonoBehaviour is enabled.
+    /// </summary>
+    void FixedUpdate()
+    {
+        Move();
     }
 
     void UpdateInputValues()
@@ -49,6 +58,10 @@ public class PlayerController : MonoBehaviour
     {
         _animator.SetFloat("MoveX", HorInput);
         _animator.SetFloat("MoveY", VertInput);
+        _flashLightAnimator.SetFloat("MoveX", HorInput);
+        _flashLightAnimator.SetFloat("MoveY", VertInput);
+
+
     }
 
 
