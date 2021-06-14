@@ -11,19 +11,38 @@ public class AIController : MonoBehaviour
     private float _randomPointRadius = 5.0f;
 
     [SerializeField]
+    private float freezeSeconds = 2.0f;
+
+    [SerializeField]
     private Animator _anim;
 
     [SerializeField]
     private Animator _flashLightAnimator;
     private Rigidbody2D _rb;
-    private GameObject _mainChar;
+
+    public GameObject _player;
 
     [SerializeField]
-    private WayPoint[] PathsToGo;
+    private WayPoint[] _pathsToGo;
     private int index = 0;
 
     //AI Variables
-    private IAstarAI _ai;
+    public IAstarAI _ai;
+    [SerializeField]
+    public Animator _aiFSM;
+    public AIStates _aiState = AIStates.idle;
+
+    public float maxWalkSpeed = 0.3f;
+    public float maxChaseSpeed = 1.1f;
+
+    public Vector3 position
+    {
+        get
+        {
+            return transform.position;
+        }
+    }
+
 
     /// <summary>
     /// This function is called when the object becomes enabled and active.
@@ -32,21 +51,18 @@ public class AIController : MonoBehaviour
     {
         _rb = GetComponent<Rigidbody2D>();
         _ai = GetComponent<IAstarAI>();
-        _mainChar = GameObject.FindGameObjectWithTag("Player");
+        _player = GameObject.FindGameObjectWithTag("Player");
+        _ai.maxSpeed = maxWalkSpeed;
     }
     void Start()
     {
         //Set Destination Variables
-        StartCoroutine(SetWanderDestination());
-        _ai.isStopped = true;
-
     }
 
     // Update is called once per frame
     void Update()
     {
         UpdateAnimationValues();
-        SetWanderDestination();
     }
 
     private void UpdateAnimationValues()
@@ -56,24 +72,75 @@ public class AIController : MonoBehaviour
         _flashLightAnimator.SetFloat("MoveX", _ai.velocity.x);
         _flashLightAnimator.SetFloat("MoveY", _ai.velocity.y);
 
+        if (_aiState == AIStates.chase || _aiState == AIStates.freeze)
+        {
+            _anim.SetBool("isAttacking", true);
+        }
+        else
+        {
+            _anim.SetBool("isAttacking", false);
+        }
 
     }
 
-    private IEnumerator SetWanderDestination()
+    public void SetPatrolDestination(Vector3 pos)
     {
-        yield return new WaitForSeconds(1.0f);
-
-        var pos = PathsToGo[index].position;
-
         _ai.destination = pos;
-
     }
+
+
+
+    public Vector3 GetNextPatrolPoint()
+    {
+        var pos = _pathsToGo[index].position;
+        index++;
+        if (index > _pathsToGo.Length - 1)
+            index = 0;
+        return pos;
+    }
+
+    public enum AIStates
+    {
+        idle,
+        patrol,
+        chase,
+        freeze
+    }
+
+    public void FreezeTimer()
+    {
+        StartCoroutine(Freeze());
+    }
+
+    private IEnumerator Freeze()
+    {
+        yield return new WaitForSeconds(freezeSeconds);
+        Debug.Log("OUT OF FREEZE");
+    }
+
+
+
+
+
+
+
+
+
 
     /// <summary>
-    /// Callback to draw gizmos that are pickable and always drawn.
+    /// Callback to draw gizmos only if the object is selected.
     /// </summary>
     void OnDrawGizmos()
     {
         Gizmos.DrawWireSphere(transform.position, _randomPointRadius);
+        var startPos = transform.position;
+        foreach (var item in _pathsToGo)
+        {
+            Gizmos.color = Color.red;
+            Debug.DrawLine(startPos, item.position);
+            startPos = item.position;
+        }
     }
+
+
 }
