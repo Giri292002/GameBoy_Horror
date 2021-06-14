@@ -1011,6 +1011,11 @@ MonoBehaviour:
   m_Area: 0
   m_IgnoreFromBuild: 0
   m_AffectedAgents: ffffffff
+--- !u!1 &2052572959 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6620099691734805192, guid: 3ddc7a99173af154daff389597d52c71, type: 3}
+  m_PrefabInstance: {fileID: 6701177692857094891}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &6701177692857094891
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1018,6 +1023,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 131373414562181869, guid: 3ddc7a99173af154daff389597d52c71, type: 3}
+      propertyPath: _FOV
+      value: 
+      objectReference: {fileID: 2052572959}
     - target: {fileID: 6701177691644522800, guid: 3ddc7a99173af154daff389597d52c71, type: 3}
       propertyPath: m_Name
       value: EnemyRoot

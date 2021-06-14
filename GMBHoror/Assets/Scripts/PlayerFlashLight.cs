@@ -44,7 +44,7 @@ public class PlayerFlashLight : MonoBehaviour
             {
                 _torchCharge = 0;
                 var postChangeIdex = index + 1;
-                if (postChangeIdex > 4)
+                if (postChangeIdex >= 4)
                 {
                     index = 4;
                     SetSprite(index);
@@ -61,16 +61,19 @@ public class PlayerFlashLight : MonoBehaviour
 
     private void SetSprite(int index)
     {
+        if (index == -1)
+        {
+            _sprite.sprite = null;
+            return;
+        }
         _sprite.sprite = _flashLightLevels[index];
     }
 
     private void IfFullTorch()
     {
         _fullTorch = true;
-        if (index == 4)
-        {
-            _trigger.enabled = true;
-        }
+        _trigger.enabled = true;
+
     }
 
     /// <summary>
@@ -82,7 +85,19 @@ public class PlayerFlashLight : MonoBehaviour
     {
         if (other.GetComponent<AIController>())
         {
-            other.GetComponent<Animator>().SetTrigger("Freeze");
+            if (other.GetComponent<AIController>()._aiState == AIController.AIStates.chase)
+            {
+                other.GetComponent<Animator>().SetTrigger("Freeze");
+                ResetTorch();
+            }
         }
+    }
+
+    void ResetTorch()
+    {
+        _trigger.enabled = false;
+        index = 0;
+        _fullTorch = false;
+        SetSprite(-1);
     }
 }

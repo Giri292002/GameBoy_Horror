@@ -18,6 +18,8 @@ public class AIController : MonoBehaviour
 
     [SerializeField]
     private Animator _flashLightAnimator;
+    [SerializeField]
+    private GameObject _FOV;
     private Rigidbody2D _rb;
 
     public GameObject _player;
@@ -88,8 +90,6 @@ public class AIController : MonoBehaviour
         _ai.destination = pos;
     }
 
-
-
     public Vector3 GetNextPatrolPoint()
     {
         var pos = _pathsToGo[index].position;
@@ -109,20 +109,23 @@ public class AIController : MonoBehaviour
 
     public void FreezeTimer()
     {
+        _FOV.GetComponent<PolygonCollider2D>().enabled = false;
+        _FOV.SetActive(false);
         StartCoroutine(Freeze());
     }
 
     private IEnumerator Freeze()
     {
         yield return new WaitForSeconds(freezeSeconds);
-        Debug.Log("OUT OF FREEZE");
+        OutOfFreeze();
     }
 
-
-
-
-
-
+    private void OutOfFreeze()
+    {
+        _FOV.SetActive(true);
+        _FOV.GetComponent<PolygonCollider2D>().enabled = true;
+        _aiFSM.SetTrigger("Patrol");
+    }
 
 
 
