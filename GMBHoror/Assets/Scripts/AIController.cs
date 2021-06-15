@@ -151,10 +151,8 @@ public class AIController : MonoBehaviour
         while (_aiState == AIStates.chase)
         {
             _sprite.color = _spriteDarkenColor;
-            Debug.Log("Dark");
             yield return new WaitForSeconds(0.1f);
             _sprite.color = new Vector4(255, 255, 255, 255);
-            Debug.Log("White");
             yield return new WaitForSeconds(0.1f);
         }
         _sprite.color = new Vector4(255, 255, 255, 255);

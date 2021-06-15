@@ -50,13 +50,18 @@ public class LevelGenerator : MonoBehaviour
 
         Destroy(_currentLevel);
         var LevelToSpawn = _levels[i];
+        if (LevelToSpawn == _currentLevel)
+        {
+            i = Random.Range(0, (_levels.Length));
+            LevelToSpawn = _levels[i];
+        }
         var clone = GameObject.Instantiate(LevelToSpawn, Vector3.zero, Quaternion.identity);
         graph = AstarPath.active.data.gridGraph;
         AstarPath.active.Scan(graph);
         _currentLevel = clone;
 
         SetPlayerPosition(exitDirection);
-        //TODO: Choose one of the exitpoints as an exit door
+
 
     }
 
@@ -66,8 +71,6 @@ public class LevelGenerator : MonoBehaviour
 
         switch (exitDirection)
         {
-
-            //EXIT: EAST - ENTRY: WEST
             case StartPoints.Directions.east:
                 foreach (var item in startPoints)
                 {
@@ -77,6 +80,7 @@ public class LevelGenerator : MonoBehaviour
                     break;
                 }
                 break;
+
 
             case StartPoints.Directions.west:
                 foreach (var item in startPoints)
@@ -109,5 +113,19 @@ public class LevelGenerator : MonoBehaviour
                 Debug.LogError("NO ENTRY POINTS, TRY ATTACHING A START POINT TO THE LEVEL CHUNK");
                 break;
         };
+        SetExitDoor(exitDirection, startPoints);
+    }
+
+    private void SetExitDoor(StartPoints.Directions exitDirection, StartPoints[] startPoints)
+    {
+
+        var j = Random.Range(0, startPoints.Length);
+        // Player's entry door should not be the exit door too
+        if (startPoints[j].ExitDirection == exitDirection)
+        {
+            j = j + 1 > startPoints.Length ? j = 0 : j + 1; //Get the next available door
+        }
+        var door = startPoints[j]; //Get the door
+        door.SetAsExitDoor();
     }
 }

@@ -14,6 +14,11 @@ public class StartPoints : MonoBehaviour
     [SerializeField]
     private float _spawnOffset = 0.5f;
 
+    [SerializeField]
+    private Sprite _openDoorSprite;
+    [SerializeField]
+    private BoxCollider2D _collider;
+
     public Directions ExitDirection;
 
     [SerializeField]
@@ -38,7 +43,6 @@ public class StartPoints : MonoBehaviour
         SetupSpawnPosition();
         _levelGenerator = GameObject.FindGameObjectWithTag("LevelGenerator").GetComponent<LevelGenerator>();
         Debug.Log($"Start Position of: {ExitDirection} is - {WorldPos}");
-        _sprite.enabled = false;
     }
 
     private void SetupSpawnPosition()
@@ -71,12 +75,19 @@ public class StartPoints : MonoBehaviour
     void OnTriggerEnter2D(Collider2D other)
     {
         Debug.Log($"Exited: {ExitDirection}");
-        if (other.gameObject.GetComponent<PlayerController>())
+        if (other.gameObject.GetComponent<PlayerController>() && bIsExitDoor)
         {
             _levelGenerator.CreateNewLevel();
             Debug.Log($"Exited: {ExitDirection}");
 
         }
+    }
+
+    public void SetAsExitDoor()
+    {
+        bIsExitDoor = true;
+        _sprite.sprite = _openDoorSprite;
+        _collider.isTrigger = true;
     }
 
     public enum Directions
