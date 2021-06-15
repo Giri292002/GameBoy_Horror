@@ -12,7 +12,7 @@ public class StartPoints : MonoBehaviour
     private Vector2 SpawnPosition = Vector2.zero;
 
     [SerializeField]
-    private float _spawnOffset = 0.5f;
+    private float _spawnOffset = 0.2f;
 
     [SerializeField]
     private Sprite _openDoorSprite;
@@ -27,7 +27,30 @@ public class StartPoints : MonoBehaviour
     {
         get
         {
-            return new Vector2(SpawnPosition.x, SpawnPosition.y);
+            switch (ExitDirection)
+            {
+                case Directions.north:
+                    Debug.Log("EXITED AT NORTH, PUTTING PLAYER AT SOUTH ENTRANCE");
+                    SpawnPosition = new Vector2(transform.position.x, transform.position.y - _spawnOffset);
+                    break;
+                case Directions.south:
+                    Debug.Log("EXITED AT SOUTH, PUTTING PLAYER AT NORTH ENTRANCE");
+                    SpawnPosition = new Vector2(transform.position.x, transform.position.y + _spawnOffset);
+                    break;
+
+                case Directions.east:
+                    Debug.Log("EXITED AT EAST, PUTTING PLAYER AT WEST ENTRANCE");
+                    SpawnPosition = new Vector2(transform.position.x - _spawnOffset, transform.position.y);
+                    break;
+                case Directions.west:
+                    Debug.Log("EXITED AT WEST, PUTTING PLAYER AT EAST ENTRANCE");
+                    SpawnPosition = new Vector2(transform.position.x + _spawnOffset, transform.position.y);
+                    break;
+                default:
+                    SpawnPosition = Vector2.zero;
+                    break;
+            }
+            return SpawnPosition;
         }
     }
 
@@ -74,18 +97,21 @@ public class StartPoints : MonoBehaviour
     /// <param name="other">The Collision2D data associated with this collision.</param>
     void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log($"Exited: {ExitDirection}");
-        if (other.gameObject.GetComponent<PlayerController>() && bIsExitDoor)
-        {
-            _levelGenerator.CreateNewLevel();
-            Debug.Log($"Exited: {ExitDirection}");
 
+        if (other.gameObject.GetComponent<PlayerController>() && bIsExitDoor && other.gameObject.GetComponent<PlayerController>().hasKey)
+        {
+            _levelGenerator.CreateNewLevel(ExitDirection);
         }
     }
 
     public void SetAsExitDoor()
     {
         bIsExitDoor = true;
+    }
+
+    //Called when the player has key
+    public void ActivateExitDoor()
+    {
         _sprite.sprite = _openDoorSprite;
         _collider.isTrigger = true;
     }

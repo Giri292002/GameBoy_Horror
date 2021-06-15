@@ -16,6 +16,22 @@ public class PlayerController : MonoBehaviour
 
     public float movementSpeed = 1000.0f;
 
+    public bool hasKey
+    {
+        get
+        {
+            return _hasKey;
+        }
+        set
+        {
+            if (value == true)
+                GameObject.FindGameObjectWithTag("LevelGenerator").GetComponent<LevelGenerator>()._currentExitDoor.ActivateExitDoor();
+            _hasKey = value;
+        }
+    }
+
+    private bool _hasKey;
+
     void Awake()
     {
         // Setup Rigidbody for frictionless top down movement and dynamic collision
@@ -60,8 +76,6 @@ public class PlayerController : MonoBehaviour
         _animator.SetFloat("MoveY", VertInput);
         _flashLightAnimator.SetFloat("MoveX", HorInput);
         _flashLightAnimator.SetFloat("MoveY", VertInput);
-
-
     }
 
 
