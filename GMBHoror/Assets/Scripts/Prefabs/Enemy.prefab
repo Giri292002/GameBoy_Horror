@@ -180,6 +180,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 294cce7bacdb2634eb181e7f0d7db3bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _aiController: {fileID: 0}
 --- !u!1 &513423565095376101
 GameObject:
   m_ObjectHideFlags: 0
@@ -433,10 +434,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _randomPointRadius: 1.13
+  freezeSeconds: 2
   _anim: {fileID: 513423565095376102}
+  _sprite: {fileID: 0}
   _flashLightAnimator: {fileID: 737018735710165433}
-  PathsToGo:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  _FOV: {fileID: 0}
+  _spriteDarkenColor: {r: 0, g: 0, b: 0, a: 0}
+  _pathsToGo: []
+  _aiFSM: {fileID: 0}
+  maxWalkSpeed: 0.3
+  maxChaseSpeed: 0.7
+  _aiState: 0
+  _player: {fileID: 0}
