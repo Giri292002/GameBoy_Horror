@@ -5,4 +5,8 @@ using UnityEngine;
 public class Level : MonoBehaviour
 {
     public StartPoints[] StartPoints;
+
+    public int ID;
+
+    public List<Room> Rooms;
 }
