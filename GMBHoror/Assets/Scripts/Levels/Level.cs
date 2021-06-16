@@ -6,5 +6,7 @@ public class Level : MonoBehaviour
 {
     public StartPoints[] StartPoints;
 
-    public Room[] Rooms;
+    public int ID;
+
+    public List<Room> Rooms;
 }

@@ -8,19 +8,17 @@ public class LevelGenerator : MonoBehaviour
     public GameObject[] Levels;
     public GameObject Key;
 
-    private static GameObject[] _levels;
-    private static GameObject _currentLevel = null;
+    private GameObject[] _levels;
+    private GameObject _currentLevel = null;
     public StartPoints _currentExitDoor = null;
+    private Room _currentKeyRoom = null;
+    private Room _currentTrapRoom = null;
 
     [SerializeField]
     private Animator _uiAnimator;
-
-
     private GameObject _player;
-
     private Pathfinding.GridGraph graph;
     private GameObject LevelToSpawn;
-
     private StartPoints.Directions exitDirection; //Provided by player when exiting
 
     [SerializeField]
@@ -117,7 +115,7 @@ public class LevelGenerator : MonoBehaviour
         };
         _player.GetComponent<PlayerController>().hasKey = false;
         SetExitDoor(exitDirection, startPoints);
-        SetKey();
+        SetupRooms();
     }
 
     private void SetExitDoor(StartPoints.Directions exitDirection, StartPoints[] startPoints)
@@ -135,10 +133,21 @@ public class LevelGenerator : MonoBehaviour
 
     }
 
-    private void SetKey()
+    private void SetupRooms()
     {
+        // Set Key Room
         var rooms = _currentLevel.GetComponent<Level>().Rooms;
-        int i = Random.Range(0, rooms.Length);
+        List<Room> AvailableRooms = rooms;
+        int i = Random.Range(0, AvailableRooms.Count);
         Instantiate(Key, new Vector3(rooms[i].Pos.x, rooms[i].Pos.y, 0), Quaternion.identity);
+        _currentKeyRoom = rooms[i];
+        AvailableRooms.Remove(_currentKeyRoom);
+
+        //Set Trap Rooms
+        i = Random.Range(0, AvailableRooms.Count);
+        AvailableRooms[i].IsTrapRoom = true;
+        _currentTrapRoom = AvailableRooms[i];
+        AvailableRooms.Remove(_currentTrapRoom);
+
     }
 }
