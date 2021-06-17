@@ -44,6 +44,13 @@ public class AIController : MonoBehaviour
 
     [Space(10)]
 
+    [Header("Audio")]
+    public AudioSource _WalkSource;
+    public AudioSource _SFXSource;
+
+    public AudioClip _sawPlayer;
+    public AudioClip _freeze;
+
     [Header("Public, don't touch")]
     public AIStates _aiState = AIStates.idle;
     public GameObject _player;
