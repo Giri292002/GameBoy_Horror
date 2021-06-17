@@ -7,6 +7,7 @@ public class LevelGenerator : MonoBehaviour
 {
     public GameObject[] Levels;
     public GameObject Key;
+    public GameObject SafeZone;
 
     private GameObject[] _levels;
     private GameObject _currentLevel = null;
@@ -53,7 +54,10 @@ public class LevelGenerator : MonoBehaviour
 
         //Setup a New Level if not first
         _uiAnimator.SetTrigger("PlayAnimation");
+
         Destroy(_currentLevel);
+        Destroy(SafeZone);
+
         var LevelToSpawn = _levels[i];
         if (LevelToSpawn == _currentLevel)
         {
@@ -120,6 +124,7 @@ public class LevelGenerator : MonoBehaviour
         _player.GetComponent<PlayerController>().hasKey = false;
         SetExitDoor(exitDirection, startPoints);
         SetupRooms();
+        SetupSafeZone();
     }
 
     private void SetExitDoor(StartPoints.Directions exitDirection, StartPoints[] startPoints)
@@ -153,5 +158,12 @@ public class LevelGenerator : MonoBehaviour
         _currentTrapRoom = AvailableRooms[i];
         AvailableRooms.Remove(_currentTrapRoom);
 
+    }
+
+    private void SetupSafeZone()
+    {
+        var space = _currentLevel.GetComponent<Level>().SpawnableSpace;
+        var spawnPos = space.GetARandomSpawnablePosition();
+        GameObject.Instantiate(SafeZone, spawnPos, Quaternion.identity);
     }
 }

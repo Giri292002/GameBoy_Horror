@@ -12,7 +12,9 @@ public class AI_FSM_Chase : AI_FSM_Parent
         _ai._ai.maxSpeed = _ai.maxChaseSpeed;
         _ai.StartAttacking();
         _ai.SetPatrolDestination(_ai._player.transform.position);
+
         _ai._WalkSource.Play();
+        _ai._WalkSource.pitch = 1.7f;
         _ai._SFXSource.volume = 0.2f;
         _ai._SFXSource.PlayOneShot(_ai._sawPlayer);
     }
@@ -29,10 +31,10 @@ public class AI_FSM_Chase : AI_FSM_Parent
     }
 
     // OnStateExit is called when a transition ends and the state machine finishes evaluating this state
-    //override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
-    //{
-    //    
-    //}
+    override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
+    {
+        _ai._WalkSource.pitch = 1f;
+    }
 
     // OnStateMove is called right after Animator.OnAnimatorMove()
     //override public void OnStateMove(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
