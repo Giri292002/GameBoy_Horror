@@ -6,7 +6,24 @@ public class Level : MonoBehaviour
 {
     public StartPoints[] StartPoints;
 
-    public int ID;
-
     public List<Room> Rooms;
+
+    public SpawnableSpace SpawnableSpace;
+
+    /// <summary>
+    /// Awake is called when the script instance is being loaded.
+    /// </summary>
+    void Awake()
+    {
+        StartPoints = GetComponentsInChildren<StartPoints>();
+
+        var rooms = GetComponentsInChildren<Room>();
+
+        foreach (var item in rooms)
+        {
+            Rooms.Add(item);
+        }
+
+        SpawnableSpace = GetComponentInChildren<SpawnableSpace>();
+    }
 }
