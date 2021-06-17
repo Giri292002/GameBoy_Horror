@@ -5,6 +5,18 @@ using UnityEngine;
 [RequireComponent(typeof(BoxCollider2D))]
 public class Key : MonoBehaviour
 {
+    AudioSource _source;
+    SpriteRenderer _sprite;
+
+    /// <summary>
+    /// Awake is called when the script instance is being loaded.
+    /// </summary>
+    void Awake()
+    {
+        _source = GetComponent<AudioSource>();
+        _sprite = GetComponent<SpriteRenderer>();
+    }
+
     /// <summary>
     /// Sent when another object enters a trigger collider attached to this
     /// object (2D physics only).
@@ -14,8 +26,15 @@ public class Key : MonoBehaviour
     {
         if (other.GetComponent<PlayerController>())
         {
+            _sprite.enabled = false;
+            _source.Play();
             other.GetComponent<PlayerController>().hasKey = true;
-            Destroy(gameObject);
+            Invoke("DestroyObject", _source.clip.length);
         }
+    }
+
+    void DestroyObject()
+    {
+        Destroy(gameObject);
     }
 }
