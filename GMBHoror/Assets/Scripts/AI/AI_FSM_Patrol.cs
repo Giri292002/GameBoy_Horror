@@ -10,6 +10,7 @@ public class AI_FSM_Patrol : AI_FSM_Parent
         base.OnStateEnter(animator, stateInfo, layerIndex);
         _ai._aiState = AIController.AIStates.patrol;
         _ai._ai.maxSpeed = _ai.maxWalkSpeed;
+        _ai._WalkSource.Play();
 
         _ai.SetPatrolDestination(_ai.GetNextPatrolPoint());
 
