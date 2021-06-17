@@ -23,12 +23,16 @@ public class LevelGenerator : MonoBehaviour
 
     [SerializeField]
     private StartPoints[] startPoints;
+
+    [Header("DEBUG")]
+    public bool isDebug = false;
     // Start is called before the first frame update
     void Start()
     {
         _player = GameObject.FindGameObjectWithTag("Player");
         _levels = Levels;
-        CreateNewLevel();
+        if (isDebug == false)
+            CreateNewLevel();
     }
 
     public void CreateNewLevel(StartPoints.Directions exitDirection = StartPoints.Directions.west)

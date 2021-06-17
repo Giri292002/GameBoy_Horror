@@ -12,6 +12,9 @@ public class AI_FSM_Chase : AI_FSM_Parent
         _ai._ai.maxSpeed = _ai.maxChaseSpeed;
         _ai.StartAttacking();
         _ai.SetPatrolDestination(_ai._player.transform.position);
+        _ai._WalkSource.Play();
+        _ai._SFXSource.volume = 0.2f;
+        _ai._SFXSource.PlayOneShot(_ai._sawPlayer);
     }
 
     // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks

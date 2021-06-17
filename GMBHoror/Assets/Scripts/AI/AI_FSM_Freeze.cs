@@ -11,6 +11,9 @@ public class AI_FSM_Freeze : AI_FSM_Parent
         _ai._aiState = AIController.AIStates.freeze;
         _ai._ai.isStopped = true;
         _ai.FreezeTimer();
+        _ai._WalkSource.Stop();
+        _ai._SFXSource.volume = 0.8f;
+        _ai._SFXSource.PlayOneShot(_ai._freeze);
     }
 
     // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks
