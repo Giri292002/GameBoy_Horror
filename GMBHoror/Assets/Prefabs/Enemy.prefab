@@ -453,6 +453,10 @@ MonoBehaviour:
   _aiFSM: {fileID: 656510191}
   maxWalkSpeed: 0.3
   maxChaseSpeed: 2
+  _WalkSource: {fileID: 0}
+  _SFXSource: {fileID: 0}
+  _sawPlayer: {fileID: 0}
+  _freeze: {fileID: 0}
   _aiState: 0
   _player: {fileID: 0}
 --- !u!82 &1706950306

@@ -16,6 +16,8 @@ public class PlayerController : MonoBehaviour
 
     public float movementSpeed = 1000.0f;
 
+    public bool canMove = true;
+
     public bool hasKey
     {
         get
@@ -59,8 +61,16 @@ public class PlayerController : MonoBehaviour
 
     void UpdateInputValues()
     {
-        HorInput = Input.GetAxis("Horizontal");
-        VertInput = Input.GetAxis("Vertical");
+        if (canMove)
+        {
+            HorInput = Input.GetAxis("Horizontal");
+            VertInput = Input.GetAxis("Vertical");
+        }
+        else
+        {
+            HorInput = 0;
+            VertInput = 0;
+        }
     }
 
     void Move()
