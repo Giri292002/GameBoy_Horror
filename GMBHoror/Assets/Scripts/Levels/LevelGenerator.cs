@@ -14,6 +14,7 @@ public class LevelGenerator : MonoBehaviour
     public StartPoints _currentExitDoor = null;
     private Room _currentKeyRoom = null;
     private Room _currentTrapRoom = null;
+    private GameObject _currentSafeZone = null;
 
     [SerializeField]
     private Animator _uiAnimator;
@@ -21,6 +22,8 @@ public class LevelGenerator : MonoBehaviour
     private Pathfinding.GridGraph graph;
     private GameObject LevelToSpawn;
     private StartPoints.Directions exitDirection; //Provided by player when exiting
+    private MasterUI InGameHUD;
+    private int _score = 0;
 
     [SerializeField]
     private StartPoints[] startPoints;
@@ -31,6 +34,12 @@ public class LevelGenerator : MonoBehaviour
     void Start()
     {
         _player = GameObject.FindGameObjectWithTag("Player");
+
+        InGameHUD = FindObjectOfType<MasterUI>();
+        InGameHUD.SetKeyVisiblity(false);
+        InGameHUD.SetScore(_score);
+
+
         _levels = Levels;
         if (isDebug == false)
             CreateNewLevel();
@@ -56,7 +65,11 @@ public class LevelGenerator : MonoBehaviour
         _uiAnimator.SetTrigger("PlayAnimation");
 
         Destroy(_currentLevel);
-        Destroy(SafeZone);
+        Destroy(_currentSafeZone);
+
+        _score++;
+        InGameHUD.SetScore(_score);
+        InGameHUD.SetKeyVisiblity(false);
 
         var LevelToSpawn = _levels[i];
         if (LevelToSpawn == _currentLevel)
@@ -164,6 +177,6 @@ public class LevelGenerator : MonoBehaviour
     {
         var space = _currentLevel.GetComponent<Level>().SpawnableSpace;
         var spawnPos = space.GetARandomSpawnablePosition();
-        GameObject.Instantiate(SafeZone, spawnPos, Quaternion.identity);
+        _currentSafeZone = GameObject.Instantiate(SafeZone, spawnPos, Quaternion.identity);
     }
 }

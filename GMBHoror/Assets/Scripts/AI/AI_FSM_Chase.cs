@@ -22,11 +22,8 @@ public class AI_FSM_Chase : AI_FSM_Parent
     // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks
     override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
+        base.OnStateUpdate(animator, stateInfo, layerIndex);
         _ai.SetPatrolDestination(_ai._player.transform.position);
-        if (_ai._ai.reachedDestination)
-        {
-            Debug.Log("Caught up to player");
-        }
 
     }
 

@@ -29,6 +29,7 @@ public class Key : MonoBehaviour
             _sprite.enabled = false;
             _source.Play();
             other.GetComponent<PlayerController>().hasKey = true;
+            GameObject.FindObjectOfType<MasterUI>().SetKeyVisiblity(true);
             Invoke("DestroyObject", _source.clip.length);
         }
     }

@@ -19,7 +19,7 @@ public class AIController : MonoBehaviour
     [SerializeField]
     private Animator _flashLightAnimator;
     [SerializeField]
-    private GameObject _FOV;
+    public GameObject _FOV;
     private Rigidbody2D _rb;
 
     [SerializeField]
@@ -41,6 +41,7 @@ public class AIController : MonoBehaviour
     public Animator _aiFSM;
     public float maxWalkSpeed = 0.3f;
     public float maxChaseSpeed = 1.1f;
+    public bool GameOver = false;
 
     [Space(10)]
 
@@ -137,7 +138,7 @@ public class AIController : MonoBehaviour
         OutOfFreeze();
     }
 
-    private void OutOfFreeze()
+    public void OutOfFreeze()
     {
         _FOV.SetActive(true);
         _FOV.GetComponent<PolygonCollider2D>().enabled = true;
@@ -166,7 +167,28 @@ public class AIController : MonoBehaviour
         yield return null;
     }
 
-
+    /// <summary>
+    /// Sent when an incoming collider makes contact with this object's
+    /// collider (2D physics only).
+    /// </summary>
+    /// <param name="other">The Collision2D data associated with this collision.</param>
+    void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.gameObject.GetComponent<PlayerController>())
+        {
+            if (_aiState == AIStates.chase)
+            {
+                _ai.isStopped = true;
+                var enemies = GameObject.FindObjectsOfType<AIController>();
+                other.gameObject.GetComponent<PlayerController>().canMove = false;
+                GameObject.FindObjectOfType<MasterUI>().GameOver();
+                foreach (var item in enemies)
+                {
+                    GameOver = true;
+                }
+            }
+        }
+    }
 
 
     /// <summary>
