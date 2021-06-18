@@ -17,7 +17,10 @@ public class PlayerFlashLight : MonoBehaviour
     int _torchCharge;
     int _torchChargeMax = 4;
 
+    bool _cooldown = true;
 
+    [SerializeField]
+    private float _coolDownTime = 3.0f;
 
     // Start is called before the first frame update
     void Start()
@@ -39,6 +42,7 @@ public class PlayerFlashLight : MonoBehaviour
     {
         if (Input.GetButtonDown("Fire1") && _fullTorch == false)
         {
+            _cooldown = false;
             _torchCharge++;
             if (_torchCharge >= _torchChargeMax)
             {
@@ -46,16 +50,22 @@ public class PlayerFlashLight : MonoBehaviour
                 var postChangeIdex = index + 1;
                 if (postChangeIdex >= 4)
                 {
+
                     index = 4;
                     SetSprite(index);
+                    Invoke("CallReduceIndex", _coolDownTime);
                     IfFullTorch();
+
                 }
                 else
                 {
+
                     index = postChangeIdex;
                     SetSprite(index);
+                    Invoke("CallReduceIndex", _coolDownTime);
                 }
             }
+
         }
     }
 
@@ -73,6 +83,8 @@ public class PlayerFlashLight : MonoBehaviour
     {
         _fullTorch = true;
         _trigger.enabled = true;
+        _cooldown = true;
+        Invoke("CallReduceIndex", _coolDownTime);
 
     }
 
@@ -91,6 +103,24 @@ public class PlayerFlashLight : MonoBehaviour
                 ResetTorch();
             }
         }
+    }
+
+    void CallReduceIndex()
+    {
+        _cooldown = true;
+        StartCoroutine(ReduceIndex());
+    }
+
+    IEnumerator ReduceIndex()
+    {
+        while (_cooldown == true)
+        {
+            index = index - 1 <= 0 ? 0 : index - 1;
+            SetSprite(index);
+            if (index == 0) ResetTorch();
+            yield return new WaitForSeconds(1.0f);
+        }
+        yield break;
     }
 
     void ResetTorch()
