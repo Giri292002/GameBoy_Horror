@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 709839942416299413}
   - component: {fileID: 709839942416299414}
   - component: {fileID: 709839942416299412}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_56 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -120,7 +120,7 @@ GameObject:
   - component: {fileID: 1465724884880624215}
   - component: {fileID: 1465724884880624208}
   - component: {fileID: 1465724884880624214}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_54 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -229,7 +229,7 @@ GameObject:
   - component: {fileID: 1656978499258809054}
   - component: {fileID: 1656978499258809048}
   - component: {fileID: 1656978499258809055}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_56 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -337,7 +337,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978499282378519}
   - component: {fileID: 1656978499282378512}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (120)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -419,7 +419,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978499296914136}
   - component: {fileID: 1656978499296914137}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (67)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -501,7 +501,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978499305354557}
   - component: {fileID: 1656978499305354558}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (101)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -583,7 +583,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978499307651037}
   - component: {fileID: 1656978499307651038}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (100)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -665,7 +665,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978499324178150}
   - component: {fileID: 1656978499324178151}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (104)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -747,7 +747,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978499335764334}
   - component: {fileID: 1656978499335764335}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (125)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -829,7 +829,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978499362081974}
   - component: {fileID: 1656978499362081975}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (87)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -912,7 +912,7 @@ GameObject:
   - component: {fileID: 1656978499371288716}
   - component: {fileID: 1656978499371288718}
   - component: {fileID: 1656978499371288717}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_71 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1021,7 +1021,7 @@ GameObject:
   - component: {fileID: 1656978499382663993}
   - component: {fileID: 1656978499382663995}
   - component: {fileID: 1656978499382663994}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_54 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1129,7 +1129,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978499383700617}
   - component: {fileID: 1656978499383700618}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (107)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1212,7 +1212,7 @@ GameObject:
   - component: {fileID: 1656978499387843473}
   - component: {fileID: 1656978499387843475}
   - component: {fileID: 1656978499387843474}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_65 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1321,7 +1321,7 @@ GameObject:
   - component: {fileID: 1656978499404958754}
   - component: {fileID: 1656978499404958748}
   - component: {fileID: 1656978499404958755}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_88
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1430,7 +1430,7 @@ GameObject:
   - component: {fileID: 1656978499408575744}
   - component: {fileID: 1656978499408575746}
   - component: {fileID: 1656978499408575745}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_54 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1538,7 +1538,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978499408764837}
   - component: {fileID: 1656978499408764838}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (56)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1621,7 +1621,7 @@ GameObject:
   - component: {fileID: 1656978499458335350}
   - component: {fileID: 1656978499458335344}
   - component: {fileID: 1656978499458335351}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_59 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1729,7 +1729,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978499459935926}
   - component: {fileID: 1656978499459935927}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (86)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1811,7 +1811,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978499461474798}
   - component: {fileID: 3678993427276054027}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Room
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1862,7 +1862,7 @@ GameObject:
   - component: {fileID: 1656978499469342193}
   - component: {fileID: 1656978499469342195}
   - component: {fileID: 1656978499469342194}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_55 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1970,7 +1970,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978499480620414}
   - component: {fileID: 1656978499480620415}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (96)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2052,7 +2052,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978499536047896}
   - component: {fileID: 1656978499536047897}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (68)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2134,7 +2134,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978499536844776}
   - component: {fileID: 1656978499536844777}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (55)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2217,7 +2217,7 @@ GameObject:
   - component: {fileID: 1656978499555232982}
   - component: {fileID: 1656978499555232976}
   - component: {fileID: 1656978499555232983}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_55 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2325,7 +2325,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978499559377690}
   - component: {fileID: 1656978499559377691}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (109)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2397,191 +2397,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &1656978499608130381
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1656978499608130382}
-  - component: {fileID: 1656978499608130372}
-  - component: {fileID: 1656978499608130379}
-  - component: {fileID: 1656978499608130378}
-  - component: {fileID: 1656978499608130377}
-  - component: {fileID: 1656978499608130383}
-  - component: {fileID: 1656978499608130376}
-  m_Layer: 0
-  m_Name: EnemyAIController
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1656978499608130382
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1656978499608130381}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.13, y: 0.054, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 1656978500613178598}
-  - {fileID: 1656978499776220129}
-  m_Father: {fileID: 1656978500230927313}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!58 &1656978499608130372
-CircleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1656978499608130381}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  serializedVersion: 2
-  m_Radius: 0.0001
---- !u!114 &1656978499608130379
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1656978499608130381}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f6eb1402c17e84a9282a7f0f62eb584f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  version: 2
-  radius: 0.5
-  height: 2
-  repathRate: 1
-  canSearch: 1
-  canMove: 1
-  maxSpeed: 0.7
-  gravity: {x: 0, y: 0, z: 0}
-  groundMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  centerOffsetCompatibility: NaN
-  orientation: 1
-  enableRotation: 0
-  targetCompatibility: {fileID: 0}
-  maxAcceleration: 10
-  rotationSpeed: 360
-  slowdownDistance: 0
-  pickNextWaypointDist: 0.1
-  endReachedDistance: 0.15
-  alwaysDrawGizmos: 0
-  slowWhenNotFacingTarget: 1
-  whenCloseToDestination: 0
-  constrainInsideGraph: 0
---- !u!114 &1656978499608130378
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1656978499608130381}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 373b52eb9bf8c40f785bb6947a1aee66, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  version: 1
-  drawGizmos: 1
-  detailedGizmos: 0
-  startEndModifier:
-    addPoints: 0
-    exactStartPoint: 1
-    exactEndPoint: 1
-    useRaycasting: 0
-    mask:
-      serializedVersion: 2
-      m_Bits: 4294967295
-    useGraphRaycasting: 0
-  traversableTags: -1
-  tagPenalties: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
-  graphMask:
-    value: -1
---- !u!50 &1656978499608130377
-Rigidbody2D:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1656978499608130381}
-  m_BodyType: 1
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDrag: 0
-  m_AngularDrag: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 4
---- !u!114 &1656978499608130383
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1656978499608130381}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0f1695724429eb149bf36f44815f38e7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _randomPointRadius: 1.13
-  freezeSeconds: 4
-  _anim: {fileID: 1656978500613178597}
-  _sprite: {fileID: 1656978500613178596}
-  _flashLightAnimator: {fileID: 1656978499776220130}
-  _FOV: {fileID: 1656978500588947642}
-  _spriteDarkenColor: {r: 0.024519395, g: 0.2735849, b: 0.047380395, a: 1}
-  _pathsToGo:
-  - {fileID: 1656978500734758489}
-  - {fileID: 1656978501167732360}
-  _aiFSM: {fileID: 1656978499608130376}
-  maxWalkSpeed: 0.3
-  maxChaseSpeed: 2
-  _aiState: 0
-  _player: {fileID: 0}
---- !u!95 &1656978499608130376
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1656978499608130381}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: b2b36b1d4decb2f47a3c8a5525186ff8, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1656978499610002862
 GameObject:
   m_ObjectHideFlags: 0
@@ -2592,7 +2407,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978499610002863}
   - component: {fileID: 1656978499610002856}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (117)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2674,7 +2489,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978499650972521}
   - component: {fileID: 1656978499650972522}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (79)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2756,7 +2571,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978499656021773}
   - component: {fileID: 1656978499656021774}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (92)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2838,7 +2653,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978499689715394}
   - component: {fileID: 1656978499689715395}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (99)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2920,7 +2735,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978499705404916}
   - component: {fileID: 1656978499705404917}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (74)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3002,7 +2817,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978499706001249}
   - component: {fileID: 1656978499706001250}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (53)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3085,7 +2900,7 @@ GameObject:
   - component: {fileID: 1656978499708669731}
   - component: {fileID: 1656978499708669725}
   - component: {fileID: 1656978499708669724}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_70
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3194,7 +3009,7 @@ GameObject:
   - component: {fileID: 1656978499711626148}
   - component: {fileID: 1656978499711626150}
   - component: {fileID: 1656978499711626149}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_55
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3302,7 +3117,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978499741194716}
   - component: {fileID: 1656978499741194717}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (89)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3384,7 +3199,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978499758432070}
   - component: {fileID: 1656978499758432071}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (73)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3456,57 +3271,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &1656978499776220128
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1656978499776220129}
-  - component: {fileID: 1656978499776220130}
-  m_Layer: 0
-  m_Name: VisionConeAnchor
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1656978499776220129
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1656978499776220128}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 1656978500588947643}
-  m_Father: {fileID: 1656978499608130382}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!95 &1656978499776220130
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1656978499776220128}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: f32dd22cd37bb4d408c203474819e893, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1656978499778878361
 GameObject:
   m_ObjectHideFlags: 0
@@ -3517,7 +3281,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978499778878362}
   - component: {fileID: 1212912045630773997}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Room (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3567,7 +3331,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978499779303342}
   - component: {fileID: 1656978499779303343}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (126)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3650,7 +3414,7 @@ GameObject:
   - component: {fileID: 1656978499783879488}
   - component: {fileID: 1656978499783879490}
   - component: {fileID: 1656978499783879489}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_59
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3764,7 +3528,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1656978499788169737
 Transform:
   m_ObjectHideFlags: 0
@@ -3790,7 +3554,7 @@ Transform:
   - {fileID: 4780385341495148755}
   - {fileID: 7559704907736043268}
   - {fileID: 3145125534629724170}
-  - {fileID: 1656978500230927313}
+  - {fileID: 2593221532664954322}
   - {fileID: 5347431979798392940}
   - {fileID: 1656978500087245493}
   - {fileID: 1656978499778878362}
@@ -3815,11 +3579,11 @@ MonoBehaviour:
   - {fileID: 4335371409511423611}
   - {fileID: 8775373179132419153}
   - {fileID: 2808060988008534723}
-  ID: 0
   Rooms:
   - {fileID: 3678993427276054027}
   - {fileID: 1212912045630773997}
   - {fileID: 8844554441921216892}
+  SpawnableSpace: {fileID: 0}
 --- !u!1 &1656978499791098642
 GameObject:
   m_ObjectHideFlags: 0
@@ -3831,7 +3595,7 @@ GameObject:
   - component: {fileID: 1656978499791098643}
   - component: {fileID: 1656978499791098637}
   - component: {fileID: 1656978499791098636}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_57 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3939,7 +3703,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978499792243065}
   - component: {fileID: 1656978499792243066}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (124)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4011,38 +3775,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &1656978499836178493
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1656978499836178494}
-  m_Layer: 0
-  m_Name: Path
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1656978499836178494
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1656978499836178493}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 1656978500734758488}
-  - {fileID: 1656978501167732367}
-  m_Father: {fileID: 1656978500230927313}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1656978499903149085
 GameObject:
   m_ObjectHideFlags: 0
@@ -4053,7 +3785,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978499903149086}
   - component: {fileID: 1656978499903149087}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (58)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4135,7 +3867,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978499921513087}
   - component: {fileID: 1656978499921513080}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (119)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4217,7 +3949,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978499934990357}
   - component: {fileID: 1656978499934990358}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (111)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4299,7 +4031,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978499938520468}
   - component: {fileID: 1656978499938520469}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (57)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4382,7 +4114,7 @@ GameObject:
   - component: {fileID: 1656978499981140775}
   - component: {fileID: 1656978499981140769}
   - component: {fileID: 1656978499981140768}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_65 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4490,7 +4222,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978499995629689}
   - component: {fileID: 1656978499995629690}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (123)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4572,7 +4304,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500043631459}
   - component: {fileID: 1656978500043631452}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (71)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4654,7 +4386,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500046155286}
   - component: {fileID: 1656978500046155287}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (102)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4736,7 +4468,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500087245493}
   - component: {fileID: 8844554441921216892}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Room (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4787,7 +4519,7 @@ GameObject:
   - component: {fileID: 1656978500101661618}
   - component: {fileID: 1656978500101661612}
   - component: {fileID: 1656978500101661619}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_59
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4896,7 +4628,7 @@ GameObject:
   - component: {fileID: 1656978500107705382}
   - component: {fileID: 1656978500107705376}
   - component: {fileID: 1656978500107705383}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_57 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5005,7 +4737,7 @@ GameObject:
   - component: {fileID: 1656978500129911965}
   - component: {fileID: 1656978500129911967}
   - component: {fileID: 1656978500129911966}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_65
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5114,7 +4846,7 @@ GameObject:
   - component: {fileID: 1656978500154719320}
   - component: {fileID: 1656978500154719322}
   - component: {fileID: 1656978500154719321}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_56 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5223,7 +4955,7 @@ GameObject:
   - component: {fileID: 1656978500186301927}
   - component: {fileID: 1656978500186301921}
   - component: {fileID: 1656978500186301920}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_57 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5332,7 +5064,7 @@ GameObject:
   - component: {fileID: 1656978500207889859}
   - component: {fileID: 1656978500207889469}
   - component: {fileID: 1656978500207889468}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_57 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5430,38 +5162,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.16, y: 0.05}
   m_EdgeRadius: 0
---- !u!1 &1656978500230927312
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1656978500230927313}
-  m_Layer: 0
-  m_Name: EnemyRoot
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1656978500230927313
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1656978500230927312}
-  m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: -0.448, y: 0.616, z: -4}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 1656978499608130382}
-  - {fileID: 1656978499836178494}
-  m_Father: {fileID: 1656978499788169737}
-  m_RootOrder: 14
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!1 &1656978500242329769
 GameObject:
   m_ObjectHideFlags: 0
@@ -5473,7 +5173,7 @@ GameObject:
   - component: {fileID: 1656978500242329770}
   - component: {fileID: 1656978500242329764}
   - component: {fileID: 1656978500242329771}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_59 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5582,7 +5282,7 @@ GameObject:
   - component: {fileID: 1656978500271578946}
   - component: {fileID: 1656978500271579068}
   - component: {fileID: 1656978500271578947}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_63 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5690,7 +5390,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500287274394}
   - component: {fileID: 1656978500287274395}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (118)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5772,7 +5472,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500298845081}
   - component: {fileID: 1656978500298845082}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (54)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5854,7 +5554,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500315946006}
   - component: {fileID: 1656978500315946007}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (60)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5937,7 +5637,7 @@ GameObject:
   - component: {fileID: 1656978500338953541}
   - component: {fileID: 1656978500338953543}
   - component: {fileID: 1656978500338953542}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_56 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6046,7 +5746,7 @@ GameObject:
   - component: {fileID: 1656978500358298168}
   - component: {fileID: 1656978500358298170}
   - component: {fileID: 1656978500358298169}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_54 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6154,7 +5854,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500374738524}
   - component: {fileID: 1656978500374738525}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (82)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6237,7 +5937,7 @@ GameObject:
   - component: {fileID: 1656978500380969844}
   - component: {fileID: 1656978500380969846}
   - component: {fileID: 1656978500380969845}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_63 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6345,7 +6045,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500385643508}
   - component: {fileID: 1656978500385643509}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (108)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6428,7 +6128,7 @@ GameObject:
   - component: {fileID: 1656978500390599037}
   - component: {fileID: 1656978500390599039}
   - component: {fileID: 1656978500390599038}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_57 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6536,7 +6236,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500396234883}
   - component: {fileID: 1656978500396235004}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (64)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6619,7 +6319,7 @@ GameObject:
   - component: {fileID: 1656978500405888530}
   - component: {fileID: 1656978500405888524}
   - component: {fileID: 1656978500405888531}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_55 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6727,7 +6427,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500416935889}
   - component: {fileID: 1656978500416935890}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (66)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6810,7 +6510,7 @@ GameObject:
   - component: {fileID: 1656978500417938396}
   - component: {fileID: 1656978500417938398}
   - component: {fileID: 1656978500417938397}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_56
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6918,7 +6618,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500452882079}
   - component: {fileID: 1656978500452882072}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (103)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7001,7 +6701,7 @@ GameObject:
   - component: {fileID: 1656978500463174232}
   - component: {fileID: 1656978500463174234}
   - component: {fileID: 1656978500463174233}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_54 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7109,7 +6809,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500466621383}
   - component: {fileID: 1656978500466621376}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (62)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7191,7 +6891,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500467170119}
   - component: {fileID: 1656978500467170112}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (65)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7274,7 +6974,7 @@ GameObject:
   - component: {fileID: 1656978500473802701}
   - component: {fileID: 1656978500473802703}
   - component: {fileID: 1656978500473802702}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_56 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7382,7 +7082,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500486391664}
   - component: {fileID: 1656978500486391665}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (75)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7465,7 +7165,7 @@ GameObject:
   - component: {fileID: 1656978500496847274}
   - component: {fileID: 1656978500496847268}
   - component: {fileID: 1656978500496847275}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_55 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7574,7 +7274,7 @@ GameObject:
   - component: {fileID: 1656978500510780167}
   - component: {fileID: 1656978500510780161}
   - component: {fileID: 1656978500510780160}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_59 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7682,7 +7382,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500510995697}
   - component: {fileID: 1656978500510995698}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (50)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7764,7 +7464,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500524890228}
   - component: {fileID: 1656978500524890229}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (51)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7846,7 +7546,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500542238471}
   - component: {fileID: 1656978500542238464}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (70)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7929,7 +7629,7 @@ GameObject:
   - component: {fileID: 1656978500580852834}
   - component: {fileID: 1656978500580852828}
   - component: {fileID: 1656978500580852835}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_63 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8027,136 +7727,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.05, y: 0.05}
   m_EdgeRadius: 0
---- !u!1 &1656978500588947642
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1656978500588947643}
-  - component: {fileID: 1656978500588947638}
-  - component: {fileID: 1656978500588947637}
-  - component: {fileID: 1656978500588947636}
-  m_Layer: 0
-  m_Name: VisionCone
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1656978500588947643
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1656978500588947642}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.5505, z: 0}
-  m_LocalScale: {x: 2.215331, y: 3.4008124, z: 1.529}
-  m_Children: []
-  m_Father: {fileID: 1656978499776220129}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!212 &1656978500588947638
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1656978500588947642}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 3f0a45891a2f562449fc272a64c3a90f, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 0}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 0.32, y: 0.32}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!60 &1656978500588947637
-PolygonCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1656978500588947642}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.32, y: 0.32}
-    newSize: {x: 0.32, y: 0.32}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: -0.02427034, y: 0.1342704}
-      - {x: -0.08567609, y: 0.011243027}
-      - {x: -0.11589208, y: -0.06}
-      - {x: -0.16, y: -0.16}
-      - {x: 0.16, y: -0.16}
-      - {x: 0.12875691, y: -0.0836757}
-      - {x: 0.064865105, y: 0.05610825}
-      - {x: 0.02713529, y: 0.13610825}
---- !u!114 &1656978500588947636
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1656978500588947642}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 294cce7bacdb2634eb181e7f0d7db3bc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _aiController: {fileID: 1656978499608130383}
 --- !u!1 &1656978500589615749
 GameObject:
   m_ObjectHideFlags: 0
@@ -8167,7 +7737,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500589615750}
   - component: {fileID: 1656978500589615751}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (84)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8249,7 +7819,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500609231354}
   - component: {fileID: 1656978500609231355}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (80)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8321,108 +7891,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &1656978500613178603
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1656978500613178598}
-  - component: {fileID: 1656978500613178596}
-  - component: {fileID: 1656978500613178597}
-  m_Layer: 0
-  m_Name: Enemy_Sprite
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1656978500613178598
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1656978500613178603}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1656978499608130382}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!212 &1656978500613178596
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1656978500613178603}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 2
-  m_Sprite: {fileID: 5601487481393561188, guid: 13aad73349ee0a84fadcb791bd7a9fa2, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 0.16, y: 0.16}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!95 &1656978500613178597
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1656978500613178603}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: cc7295813dcde9646b0b59c1053bfac2, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1656978500633628203
 GameObject:
   m_ObjectHideFlags: 0
@@ -8433,7 +7901,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500633628196}
   - component: {fileID: 1656978500633628197}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (69)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8515,7 +7983,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500637067433}
   - component: {fileID: 1656978500637067434}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (61)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8597,7 +8065,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500652564438}
   - component: {fileID: 1656978500652564439}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (115)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8680,7 +8148,7 @@ GameObject:
   - component: {fileID: 1656978500668663325}
   - component: {fileID: 1656978500668663327}
   - component: {fileID: 1656978500668663326}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_63
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8789,7 +8257,7 @@ GameObject:
   - component: {fileID: 1656978500698780783}
   - component: {fileID: 1656978500698780777}
   - component: {fileID: 1656978500698780776}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_54 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8897,7 +8365,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500704600988}
   - component: {fileID: 1656978500704600989}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (90)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8979,7 +8447,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500705434336}
   - component: {fileID: 1656978500705434337}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (110)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9062,7 +8530,7 @@ GameObject:
   - component: {fileID: 1656978500716750651}
   - component: {fileID: 1656978500716750645}
   - component: {fileID: 1656978500716750644}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_54 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9160,101 +8628,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.05, y: 0.32}
   m_EdgeRadius: 0
---- !u!1 &1656978500734758495
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1656978500734758488}
-  - component: {fileID: 1656978500734758490}
-  - component: {fileID: 1656978500734758489}
-  m_Layer: 0
-  m_Name: WayPoint (1)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1656978500734758488
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1656978500734758495}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.081, y: -0.052, z: 0}
-  m_LocalScale: {x: 0.4, y: 0.4, z: 0.5}
-  m_Children: []
-  m_Father: {fileID: 1656978499836178494}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!212 &1656978500734758490
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1656978500734758495}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 5
-  m_Sprite: {fileID: -715482466913557737, guid: 942d3872602744e449b47ea18de81e88, type: 3}
-  m_Color: {r: 1, g: 0, b: 0, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 0.375, y: 0.28125}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!114 &1656978500734758489
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1656978500734758495}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 41558d66ce5043b478c7e9fb3c064871, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1656978500754221521
 GameObject:
   m_ObjectHideFlags: 0
@@ -9265,7 +8638,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500754221522}
   - component: {fileID: 1656978500754221523}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (121)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9347,7 +8720,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500755447956}
   - component: {fileID: 1656978500755447957}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (93)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9430,7 +8803,7 @@ GameObject:
   - component: {fileID: 1656978500757006330}
   - component: {fileID: 1656978500757006324}
   - component: {fileID: 1656978500757006331}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_63
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9539,7 +8912,7 @@ GameObject:
   - component: {fileID: 1656978500781814352}
   - component: {fileID: 1656978500781814354}
   - component: {fileID: 1656978500781814353}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_57 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9648,7 +9021,7 @@ GameObject:
   - component: {fileID: 1656978500801039071}
   - component: {fileID: 1656978500801039065}
   - component: {fileID: 1656978500801039064}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_65 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9757,7 +9130,7 @@ GameObject:
   - component: {fileID: 1656978500815598646}
   - component: {fileID: 1656978500815598640}
   - component: {fileID: 1656978500815598647}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_90
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9865,7 +9238,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500824025061}
   - component: {fileID: 1656978500824025062}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (113)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9948,7 +9321,7 @@ GameObject:
   - component: {fileID: 1656978500840588790}
   - component: {fileID: 1656978500840588784}
   - component: {fileID: 1656978500840588791}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_88 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10056,7 +9429,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500871276673}
   - component: {fileID: 1656978500871276674}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (122)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10138,7 +9511,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500872385885}
   - component: {fileID: 1656978500872385886}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (85)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10221,7 +9594,7 @@ GameObject:
   - component: {fileID: 1656978500897480125}
   - component: {fileID: 1656978500897480127}
   - component: {fileID: 1656978500897480126}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_57 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10329,7 +9702,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500911551624}
   - component: {fileID: 1656978500911551625}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (105)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10412,7 +9785,7 @@ GameObject:
   - component: {fileID: 1656978500923574663}
   - component: {fileID: 1656978500923574657}
   - component: {fileID: 1656978500923574656}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_71
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10520,7 +9893,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500932012273}
   - component: {fileID: 1656978500932012274}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (91)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10602,7 +9975,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500979679247}
   - component: {fileID: 1656978500979679240}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (77)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10684,7 +10057,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978500986562108}
   - component: {fileID: 1656978500986562109}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (116)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10767,7 +10140,7 @@ GameObject:
   - component: {fileID: 1656978501016762279}
   - component: {fileID: 1656978501016762273}
   - component: {fileID: 1656978501016762272}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_57
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10876,7 +10249,7 @@ GameObject:
   - component: {fileID: 1656978501019133641}
   - component: {fileID: 1656978501019133643}
   - component: {fileID: 1656978501019133642}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_63 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10985,7 +10358,7 @@ GameObject:
   - component: {fileID: 1656978501020863193}
   - component: {fileID: 1656978501020863195}
   - component: {fileID: 1656978501020863194}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_57 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11093,7 +10466,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978501056628682}
   - component: {fileID: 1656978501056628683}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (97)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11175,7 +10548,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978501076027605}
   - component: {fileID: 1656978501076027606}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (112)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11257,7 +10630,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978501091871797}
   - component: {fileID: 1656978501091871798}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (72)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11340,7 +10713,7 @@ GameObject:
   - component: {fileID: 1656978501145586797}
   - component: {fileID: 1656978501145586799}
   - component: {fileID: 1656978501145586798}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_59 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11448,7 +10821,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978501146819441}
   - component: {fileID: 1656978501146819442}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (63)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11530,7 +10903,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978501150204779}
   - component: {fileID: 1656978501150204772}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (95)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11613,7 +10986,7 @@ GameObject:
   - component: {fileID: 1656978501154724978}
   - component: {fileID: 1656978501154724972}
   - component: {fileID: 1656978501154724979}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_56 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11722,7 +11095,7 @@ GameObject:
   - component: {fileID: 1656978501162863146}
   - component: {fileID: 1656978501162863140}
   - component: {fileID: 1656978501162863147}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_88 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11830,7 +11203,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978501167105387}
   - component: {fileID: 1656978501167105380}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (52)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11902,101 +11275,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &1656978501167732366
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1656978501167732367}
-  - component: {fileID: 1656978501167732361}
-  - component: {fileID: 1656978501167732360}
-  m_Layer: 0
-  m_Name: WayPoint (2)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1656978501167732367
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1656978501167732366}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.087, y: -0.819, z: 0}
-  m_LocalScale: {x: 0.4, y: 0.4, z: 0.5}
-  m_Children: []
-  m_Father: {fileID: 1656978499836178494}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!212 &1656978501167732361
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1656978501167732366}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 5
-  m_Sprite: {fileID: -715482466913557737, guid: 942d3872602744e449b47ea18de81e88, type: 3}
-  m_Color: {r: 1, g: 0, b: 0, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 0.375, y: 0.28125}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!114 &1656978501167732360
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1656978501167732366}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 41558d66ce5043b478c7e9fb3c064871, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1656978501187867240
 GameObject:
   m_ObjectHideFlags: 0
@@ -12007,7 +11285,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978501187867241}
   - component: {fileID: 1656978501187867242}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (76)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12089,7 +11367,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978501189443079}
   - component: {fileID: 1656978501189443072}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (106)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12171,7 +11449,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978501215660909}
   - component: {fileID: 1656978501215660910}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (98)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12252,7 +11530,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1656978501216777163}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12360,7 +11638,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978501224673463}
   - component: {fileID: 1656978501224673456}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (59)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12441,7 +11719,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1656978501230005916}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Base_walls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12505,7 +11783,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978501258508172}
   - component: {fileID: 1656978501258508173}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (78)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12588,7 +11866,7 @@ GameObject:
   - component: {fileID: 1656978501281710397}
   - component: {fileID: 1656978501281710399}
   - component: {fileID: 1656978501281710398}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_88 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12696,7 +11974,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978501309776902}
   - component: {fileID: 1656978501309776903}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (88)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12778,7 +12056,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978501334800721}
   - component: {fileID: 1656978501334800722}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (83)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12860,7 +12138,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978501345812092}
   - component: {fileID: 1656978501345812093}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (81)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12942,7 +12220,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978501347073478}
   - component: {fileID: 1656978501347073479}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (94)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13024,7 +12302,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656978501378864538}
   - component: {fileID: 1656978501378864539}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_38 (114)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13107,7 +12385,7 @@ GameObject:
   - component: {fileID: 1656978501382471693}
   - component: {fileID: 1656978501382471695}
   - component: {fileID: 1656978501382471694}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_57 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13216,7 +12494,7 @@ GameObject:
   - component: {fileID: 1836621797460116685}
   - component: {fileID: 1836621797460116686}
   - component: {fileID: 1836621797460116684}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_58
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13324,7 +12602,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2377133853426531931}
   - component: {fileID: 2377133853426531924}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_49
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13407,7 +12685,7 @@ GameObject:
   - component: {fileID: 3145125534629724170}
   - component: {fileID: 3145125534629724171}
   - component: {fileID: 3145125534629724169}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_97 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13516,7 +12794,7 @@ GameObject:
   - component: {fileID: 4012913941084302933}
   - component: {fileID: 4012913941084302934}
   - component: {fileID: 4012913941084302932}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_43
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13625,7 +12903,7 @@ GameObject:
   - component: {fileID: 4780385341495148755}
   - component: {fileID: 4780385341495148748}
   - component: {fileID: 4780385341495148754}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_97
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13734,7 +13012,7 @@ GameObject:
   - component: {fileID: 5158208593452146170}
   - component: {fileID: 5158208593452146171}
   - component: {fileID: 5158208593452146169}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_98
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13843,7 +13121,7 @@ GameObject:
   - component: {fileID: 6082347694244514923}
   - component: {fileID: 6082347694244514916}
   - component: {fileID: 6082347694244514922}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_98 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13952,7 +13230,7 @@ GameObject:
   - component: {fileID: 6973198217221801200}
   - component: {fileID: 6973198217221801201}
   - component: {fileID: 6973198217221801207}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_56
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14061,7 +13339,7 @@ GameObject:
   - component: {fileID: 7559704907736043268}
   - component: {fileID: 7559704907736043269}
   - component: {fileID: 7559704907736043275}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_98 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14170,7 +13448,7 @@ GameObject:
   - component: {fileID: 8357542324390340972}
   - component: {fileID: 8357542324390340973}
   - component: {fileID: 8357542324390340979}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tileset_new_54
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14281,11 +13559,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 336334037544492052, guid: 4583f699edba76f408f7da42843f732e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.37128383
+      value: -0.545
       objectReference: {fileID: 0}
     - target: {fileID: 336334037544492052, guid: 4583f699edba76f408f7da42843f732e, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.0738709
+      value: -0.086
       objectReference: {fileID: 0}
     - target: {fileID: 336334037544492052, guid: 4583f699edba76f408f7da42843f732e, type: 3}
       propertyPath: m_LocalPosition.z
@@ -14293,19 +13571,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 336334037544492052, guid: 4583f699edba76f408f7da42843f732e, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.7071068
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 336334037544492052, guid: 4583f699edba76f408f7da42843f732e, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 336334037544492052, guid: 4583f699edba76f408f7da42843f732e, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 336334037544492052, guid: 4583f699edba76f408f7da42843f732e, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.7071068
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 336334037544492052, guid: 4583f699edba76f408f7da42843f732e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -14325,6 +13603,22 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4583f699edba76f408f7da42843f732e, type: 3}
+--- !u!114 &4335371409511423611 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8265607628954284547, guid: 4583f699edba76f408f7da42843f732e, type: 3}
+  m_PrefabInstance: {fileID: 5665250205017320568}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a12ae83babcf71849854e2ce276210f9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &5347431979798392940 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 336334037544492052, guid: 4583f699edba76f408f7da42843f732e, type: 3}
+  m_PrefabInstance: {fileID: 5665250205017320568}
+  m_PrefabAsset: {fileID: 0}
 --- !u!114 &2808060988008534723 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 7523051645822156475, guid: 4583f699edba76f408f7da42843f732e, type: 3}
@@ -14347,22 +13641,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a12ae83babcf71849854e2ce276210f9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &4335371409511423611 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 8265607628954284547, guid: 4583f699edba76f408f7da42843f732e, type: 3}
-  m_PrefabInstance: {fileID: 5665250205017320568}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a12ae83babcf71849854e2ce276210f9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!4 &5347431979798392940 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 336334037544492052, guid: 4583f699edba76f408f7da42843f732e, type: 3}
-  m_PrefabInstance: {fileID: 5665250205017320568}
-  m_PrefabAsset: {fileID: 0}
 --- !u!114 &1801632959844370483 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 6313955049192875083, guid: 4583f699edba76f408f7da42843f732e, type: 3}
@@ -14374,3 +13652,97 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a12ae83babcf71849854e2ce276210f9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1001 &9152339899433422053
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1656978499788169737}
+    m_Modifications:
+    - target: {fileID: 131373414562181869, guid: 3ddc7a99173af154daff389597d52c71, type: 3}
+      propertyPath: _pathsToGo.Array.data[2]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 131373414562181869, guid: 3ddc7a99173af154daff389597d52c71, type: 3}
+      propertyPath: _pathsToGo.Array.data[3]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 131373414562181869, guid: 3ddc7a99173af154daff389597d52c71, type: 3}
+      propertyPath: _pathsToGo.Array.data[4]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 131373414562181869, guid: 3ddc7a99173af154daff389597d52c71, type: 3}
+      propertyPath: _pathsToGo.Array.data[5]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2424451836764189733, guid: 3ddc7a99173af154daff389597d52c71, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.662
+      objectReference: {fileID: 0}
+    - target: {fileID: 2424451836764189733, guid: 3ddc7a99173af154daff389597d52c71, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.023
+      objectReference: {fileID: 0}
+    - target: {fileID: 2424451837878971568, guid: 3ddc7a99173af154daff389597d52c71, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 2424451837878971568, guid: 3ddc7a99173af154daff389597d52c71, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.885
+      objectReference: {fileID: 0}
+    - target: {fileID: 6701177691644522800, guid: 3ddc7a99173af154daff389597d52c71, type: 3}
+      propertyPath: m_Name
+      value: EnemyRoot
+      objectReference: {fileID: 0}
+    - target: {fileID: 6701177691644522807, guid: 3ddc7a99173af154daff389597d52c71, type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 6701177691644522807, guid: 3ddc7a99173af154daff389597d52c71, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.379
+      objectReference: {fileID: 0}
+    - target: {fileID: 6701177691644522807, guid: 3ddc7a99173af154daff389597d52c71, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.187
+      objectReference: {fileID: 0}
+    - target: {fileID: 6701177691644522807, guid: 3ddc7a99173af154daff389597d52c71, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -22.445318
+      objectReference: {fileID: 0}
+    - target: {fileID: 6701177691644522807, guid: 3ddc7a99173af154daff389597d52c71, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 6701177691644522807, guid: 3ddc7a99173af154daff389597d52c71, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6701177691644522807, guid: 3ddc7a99173af154daff389597d52c71, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6701177691644522807, guid: 3ddc7a99173af154daff389597d52c71, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 6701177691644522807, guid: 3ddc7a99173af154daff389597d52c71, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6701177691644522807, guid: 3ddc7a99173af154daff389597d52c71, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6701177691644522807, guid: 3ddc7a99173af154daff389597d52c71, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 90
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3ddc7a99173af154daff389597d52c71, type: 3}
+--- !u!4 &2593221532664954322 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6701177691644522807, guid: 3ddc7a99173af154daff389597d52c71, type: 3}
+  m_PrefabInstance: {fileID: 9152339899433422053}
+  m_PrefabAsset: {fileID: 0}

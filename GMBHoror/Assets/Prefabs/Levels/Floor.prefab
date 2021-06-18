@@ -1157,7 +1157,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1804862491655724999}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4382,7 +4382,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2373839648666874660}
   - component: {fileID: 7346570959188841097}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: SpawnableSpace
   m_TagString: Untagged
   m_Icon: {fileID: 0}
