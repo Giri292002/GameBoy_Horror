@@ -1428,7 +1428,7 @@ GameObject:
   - component: {fileID: 3268135725683542126}
   - component: {fileID: 5246637118360764593}
   m_Layer: 0
-  m_Name: Block_2
+  m_Name: Block_2(Tutorial)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1474,11 +1474,11 @@ MonoBehaviour:
   - {fileID: 5995347034965430144}
   - {fileID: 1644366262495858090}
   - {fileID: 3745601349829204962}
-  ID: 0
   Rooms:
   - {fileID: 8276193244460937012}
   - {fileID: 6275825760329454110}
   - {fileID: 77724490459456116}
+  SpawnableSpace: {fileID: 0}
 --- !u!1 &3268135725693359048
 GameObject:
   m_ObjectHideFlags: 0

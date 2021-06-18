@@ -10,6 +10,8 @@ public class Level : MonoBehaviour
 
     public SpawnableSpace SpawnableSpace;
 
+    public int z;
+
     /// <summary>
     /// Awake is called when the script instance is being loaded.
     /// </summary>

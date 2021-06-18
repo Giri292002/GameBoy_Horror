@@ -55,8 +55,8 @@ public class LevelGenerator : MonoBehaviour
 
         if (_currentLevel == null)
         {
-            var FirstLevelToSpawn = _levels[0];
-            var firstinstance = GameObject.Instantiate(FirstLevelToSpawn, Vector3.zero, Quaternion.identity);
+            var FirstLevelToSpawn = _levels[i];
+            var firstinstance = GameObject.Instantiate(FirstLevelToSpawn, Vector3.zero, Quaternion.Euler(0, 0, FirstLevelToSpawn.GetComponent<Level>().z));
             graph = AstarPath.active.data.gridGraph;
             AstarPath.active.Scan(graph);
             _currentLevel = firstinstance;
@@ -81,7 +81,7 @@ public class LevelGenerator : MonoBehaviour
             i = Random.Range(0, (_levels.Length));
             LevelToSpawn = _levels[i];
         }
-        var clone = GameObject.Instantiate(LevelToSpawn, Vector3.zero, Quaternion.identity);
+        var clone = GameObject.Instantiate(LevelToSpawn, Vector3.zero, Quaternion.Euler(0, 0, LevelToSpawn.GetComponent<Level>().z));
         graph = AstarPath.active.data.gridGraph;
         AstarPath.active.Scan(graph);
         _currentLevel = clone;

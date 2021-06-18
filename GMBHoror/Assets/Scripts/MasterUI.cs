@@ -51,7 +51,7 @@ public class MasterUI : MonoBehaviour
     public void SetScore(int score)
     {
         scoreNumber = score;
-        Score.text = "ROOMS CLEARED: " + score;
+        Score.text = "CLEARED:" + score;
     }
 
     public void ShowCredits(bool visible)
