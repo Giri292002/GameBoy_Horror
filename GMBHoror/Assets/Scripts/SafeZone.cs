@@ -7,7 +7,7 @@ public class SafeZone : MonoBehaviour
 
     CircleCollider2D _collider;
     AudioSource _source;
-    bool _isStillIn;
+    public bool _isStillIn;
     AIController[] enemies;
 
     // Start is called before the first frame update

@@ -8,6 +8,7 @@ public class AI_FSM_Chase : AI_FSM_Parent
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         base.OnStateEnter(animator, stateInfo, layerIndex);
+        if (GameObject.FindObjectOfType<SafeZone>()._isStillIn) return;
         _ai._aiState = AIController.AIStates.chase;
         _ai._ai.maxSpeed = _ai.maxChaseSpeed;
         _ai.StartAttacking();
@@ -15,7 +16,7 @@ public class AI_FSM_Chase : AI_FSM_Parent
 
         _ai._WalkSource.Play();
         _ai._WalkSource.pitch = 1.7f;
-        _ai._SFXSource.volume = 0.2f;
+        _ai._SFXSource.volume = 0.1f;
         _ai._SFXSource.PlayOneShot(_ai._sawPlayer);
     }
 
@@ -23,6 +24,7 @@ public class AI_FSM_Chase : AI_FSM_Parent
     override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         base.OnStateUpdate(animator, stateInfo, layerIndex);
+        if (GameObject.FindObjectOfType<SafeZone>()._isStillIn) return;
         _ai.SetPatrolDestination(_ai._player.transform.position);
 
     }
