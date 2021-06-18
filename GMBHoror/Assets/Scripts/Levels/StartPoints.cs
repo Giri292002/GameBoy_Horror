@@ -64,7 +64,10 @@ public class StartPoints : MonoBehaviour
     void Start()
     {
         SetupSpawnPosition();
-        _levelGenerator = GameObject.FindGameObjectWithTag("LevelGenerator").GetComponent<LevelGenerator>();
+        if (GameObject.FindGameObjectWithTag("LevelGenerator"))
+        {
+            _levelGenerator = GameObject.FindGameObjectWithTag("LevelGenerator").GetComponent<LevelGenerator>();
+        }
         Debug.Log($"Start Position of: {ExitDirection} is - {WorldPos}");
     }
 
