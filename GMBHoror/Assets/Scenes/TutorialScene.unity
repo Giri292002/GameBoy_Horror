@@ -971,6 +971,34 @@ PrefabInstance:
       propertyPath: m_Name
       value: Block_1(Tutorial)
       objectReference: {fileID: 0}
+    - target: {fileID: 4268758789263641399, guid: 13ff53c96b8358940af5ff3b73a7c686, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4703902063488223174, guid: 13ff53c96b8358940af5ff3b73a7c686, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.69
+      objectReference: {fileID: 0}
+    - target: {fileID: 4703902063488223174, guid: 13ff53c96b8358940af5ff3b73a7c686, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.216
+      objectReference: {fileID: 0}
+    - target: {fileID: 4703902064604847955, guid: 13ff53c96b8358940af5ff3b73a7c686, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.199
+      objectReference: {fileID: 0}
+    - target: {fileID: 4703902064604847955, guid: 13ff53c96b8358940af5ff3b73a7c686, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.513
+      objectReference: {fileID: 0}
+    - target: {fileID: 9082506462384582325, guid: 13ff53c96b8358940af5ff3b73a7c686, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.635
+      objectReference: {fileID: 0}
+    - target: {fileID: 9082506462384582325, guid: 13ff53c96b8358940af5ff3b73a7c686, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.158
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13ff53c96b8358940af5ff3b73a7c686, type: 3}
 --- !u!1001 &2083551738

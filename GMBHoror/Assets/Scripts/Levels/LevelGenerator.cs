@@ -24,6 +24,7 @@ public class LevelGenerator : MonoBehaviour
     private StartPoints.Directions exitDirection; //Provided by player when exiting
     private MasterUI InGameHUD;
     private int _score = 0;
+    private AudioSource _source;
 
     [SerializeField]
     private StartPoints[] startPoints;
@@ -33,6 +34,8 @@ public class LevelGenerator : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        _source = GetComponent<AudioSource>();
+
         _player = GameObject.FindGameObjectWithTag("Player");
 
         InGameHUD = FindObjectOfType<MasterUI>();
@@ -63,6 +66,7 @@ public class LevelGenerator : MonoBehaviour
 
         //Setup a New Level if not first
         _uiAnimator.SetTrigger("PlayAnimation");
+        _source.Play();
 
         Destroy(_currentLevel);
         Destroy(_currentSafeZone);
