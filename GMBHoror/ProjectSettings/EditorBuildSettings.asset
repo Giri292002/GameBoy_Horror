@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: baf3f3a4f2b6ffe45b6967711bb04b1b
+  - enabled: 1
+    path: Assets/Scenes/TutorialScene.unity
+    guid: 5e8e45c3a5ed21844ad26a0d31e08b98
+  - enabled: 1
     path: Assets/Scenes/GboyExperimentScene.unity
     guid: 1a75a6c29296a4f43aa8c9ef93668a51
   m_configObjects: {}
