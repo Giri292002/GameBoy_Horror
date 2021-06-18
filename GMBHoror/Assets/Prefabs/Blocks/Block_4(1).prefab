@@ -8344,6 +8344,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5060410424705865283}
+  - component: {fileID: 5875708080129125063}
   m_Layer: 0
   m_Name: Block_4(1)
   m_TagString: Untagged
@@ -8385,6 +8386,27 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
+--- !u!114 &5875708080129125063
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5212036830601803106}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18f0d1ce4f898e14e8b0ab1638a856b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  StartPoints:
+  - {fileID: 4216631985710999879}
+  - {fileID: 4362792526611857927}
+  - {fileID: 1377587504938603865}
+  - {fileID: 504538679666542137}
+  Rooms:
+  - {fileID: 7991591732242345632}
+  - {fileID: 8788120916277122766}
+  SpawnableSpace: {fileID: 0}
 --- !u!1 &5288298565900732728
 GameObject:
   m_ObjectHideFlags: 0
