@@ -12,6 +12,7 @@ public class AI_FSM_Patrol : AI_FSM_Parent
         _ai._ai.maxSpeed = _ai.maxWalkSpeed;
         _ai._WalkSource.Play();
 
+
         _ai.SetPatrolDestination(_ai.GetNextPatrolPoint());
 
     }
@@ -20,9 +21,14 @@ public class AI_FSM_Patrol : AI_FSM_Parent
     override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
 
-
+        base.OnStateUpdate(animator, stateInfo, layerIndex);
         if (_ai._ai.reachedDestination)
         {
+            if (_ai._FOV.activeSelf == false)
+            {
+                _ai._FOV.SetActive(true);
+                _ai._FOV.GetComponent<PolygonCollider2D>().enabled = true;
+            }
             _ai.SetPatrolDestination(_ai.GetNextPatrolPoint());
         }
 
