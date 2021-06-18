@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+[RequireComponent(typeof(AudioSource))]
 public class TextGenerator : MonoBehaviour
 {
     public string Message;
@@ -14,12 +15,20 @@ public class TextGenerator : MonoBehaviour
     [SerializeField]
     private Image _image;
 
+    [SerializeField]
+    private AudioClip _textSFX;
+
+    private AudioSource _source;
+
+
     /// <summary>
     /// Start is called on the frame when a script is enabled just before
     /// any of the Update methods is called the first time.
     /// </summary>
     void Start()
     {
+        _source = GetComponent<AudioSource>();
+        _source.clip = _textSFX;
         _text.text = "";
     }
 
@@ -35,6 +44,7 @@ public class TextGenerator : MonoBehaviour
     {
         foreach (char c in Message)
         {
+            _source.Play();
             _text.text += c;
             yield return new WaitForSeconds(0.050f);
         }

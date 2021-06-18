@@ -12,6 +12,14 @@ public class PlayerFlashLight : MonoBehaviour
 
     PolygonCollider2D _trigger;
 
+    [SerializeField]
+    private AudioSource _source;
+    [SerializeField]
+    private AudioClip _chargeUp;
+    [SerializeField]
+    private AudioClip _chargeDown;
+
+
     int index; //Level and also used to drive the sprite
     bool _fullTorch;
     int _torchCharge;
@@ -46,6 +54,8 @@ public class PlayerFlashLight : MonoBehaviour
             _torchCharge++;
             if (_torchCharge >= _torchChargeMax)
             {
+                _source.clip = _chargeUp;
+                _source.Play();
                 _torchCharge = 0;
                 var postChangeIdex = index + 1;
                 if (postChangeIdex >= 4)
@@ -115,6 +125,8 @@ public class PlayerFlashLight : MonoBehaviour
     {
         while (_cooldown == true)
         {
+            _source.clip = _chargeDown;
+            _source.Play();
             index = index - 1 <= 0 ? 0 : index - 1;
             SetSprite(index);
             if (index == 0) ResetTorch();
@@ -125,6 +137,7 @@ public class PlayerFlashLight : MonoBehaviour
 
     void ResetTorch()
     {
+        _cooldown = false;
         _trigger.enabled = false;
         index = 0;
         _fullTorch = false;

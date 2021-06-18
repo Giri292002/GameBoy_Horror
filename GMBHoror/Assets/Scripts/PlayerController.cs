@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 
 // Ensure the component is present on the gameobject the script is attached to
 [RequireComponent(typeof(Rigidbody2D))]
@@ -6,6 +7,9 @@ public class PlayerController : MonoBehaviour
 {
     [SerializeField]
     private Animator _flashLightAnimator;
+
+    [SerializeField]
+    private AudioSource _source;
 
     // Local rigidbody variable to hold a reference to the attached Rigidbody2D component
     new Rigidbody2D rigidbody2D;
@@ -39,6 +43,7 @@ public class PlayerController : MonoBehaviour
         // Setup Rigidbody for frictionless top down movement and dynamic collision
         rigidbody2D = GetComponent<Rigidbody2D>();
         _animator = GetComponent<Animator>();
+        _source = GetComponent<AudioSource>();
 
         rigidbody2D.isKinematic = false;
         rigidbody2D.angularDrag = 0.0f;
@@ -49,6 +54,19 @@ public class PlayerController : MonoBehaviour
     {
         UpdateInputValues();
         UpdateAnimations();
+        UpdateAudio();
+    }
+
+    private void UpdateAudio()
+    {
+        if (HorInput != 0 || VertInput != 0)
+        {
+            if (_source.isPlaying == false) _source.Play();
+        }
+        else
+        {
+            _source.Stop();
+        }
     }
 
     /// <summary>

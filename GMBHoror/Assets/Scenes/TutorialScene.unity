@@ -387,7 +387,7 @@ PrefabInstance:
       propertyPath: Message
       value: Hear that? That's an enemy wandering nearby. Use your hearing to navigate
         around them. If they see you they will charge at you. Freeze them in place
-        with the flashlight and run!w
+        with the flashlight and run!
       objectReference: {fileID: 0}
     - target: {fileID: 7610664943554659961, guid: f487cf1892645ad4e93f63accff1a4cb, type: 3}
       propertyPath: m_Name
@@ -435,6 +435,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 421057525, guid: 13f27a08a99a6144093ec2b945fd0ab0, type: 3}
+      propertyPath: m_PlayOnAwake
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1713211183985668948, guid: 13f27a08a99a6144093ec2b945fd0ab0, type: 3}
+      propertyPath: _source
+      value: 
+      objectReference: {fileID: 1556659786}
+    - target: {fileID: 1713211183985668948, guid: 13f27a08a99a6144093ec2b945fd0ab0, type: 3}
+      propertyPath: _chargeUp
+      value: 
+      objectReference: {fileID: 8300000, guid: d49ff7f5d79309e46b232d18dbe9d038, type: 3}
+    - target: {fileID: 1713211183985668948, guid: 13f27a08a99a6144093ec2b945fd0ab0, type: 3}
+      propertyPath: _chargeDown
+      value: 
+      objectReference: {fileID: 8300000, guid: 31d2875501b2a0a4f9b03d6f5031ef18, type: 3}
     - target: {fileID: 7516840790769395817, guid: 13f27a08a99a6144093ec2b945fd0ab0, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -857,6 +873,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7610664943554659943, guid: f487cf1892645ad4e93f63accff1a4cb, type: 3}
   m_PrefabInstance: {fileID: 377712203}
   m_PrefabAsset: {fileID: 0}
+--- !u!82 &1556659786 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 421057525, guid: 13f27a08a99a6144093ec2b945fd0ab0, type: 3}
+  m_PrefabInstance: {fileID: 465996051}
+  m_PrefabAsset: {fileID: 0}
 --- !u!61 &1634633226 stripped
 BoxCollider2D:
   m_CorrespondingSourceObject: {fileID: 2831993846923206502, guid: 3cb68bcd352365440940836ebb3cfe7e, type: 3}
@@ -949,6 +970,34 @@ PrefabInstance:
     - target: {fileID: 2535328946131861251, guid: 13ff53c96b8358940af5ff3b73a7c686, type: 3}
       propertyPath: m_Name
       value: Block_1(Tutorial)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4268758789263641399, guid: 13ff53c96b8358940af5ff3b73a7c686, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4703902063488223174, guid: 13ff53c96b8358940af5ff3b73a7c686, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.69
+      objectReference: {fileID: 0}
+    - target: {fileID: 4703902063488223174, guid: 13ff53c96b8358940af5ff3b73a7c686, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.216
+      objectReference: {fileID: 0}
+    - target: {fileID: 4703902064604847955, guid: 13ff53c96b8358940af5ff3b73a7c686, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.199
+      objectReference: {fileID: 0}
+    - target: {fileID: 4703902064604847955, guid: 13ff53c96b8358940af5ff3b73a7c686, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.513
+      objectReference: {fileID: 0}
+    - target: {fileID: 9082506462384582325, guid: 13ff53c96b8358940af5ff3b73a7c686, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.635
+      objectReference: {fileID: 0}
+    - target: {fileID: 9082506462384582325, guid: 13ff53c96b8358940af5ff3b73a7c686, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.158
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 13ff53c96b8358940af5ff3b73a7c686, type: 3}
@@ -1181,10 +1230,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: TutorialText
       objectReference: {fileID: 0}
-    - target: {fileID: 3003813954860545960, guid: d0f6868ec169df24e8b56f8e6a00eea0, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 3003813954860546004, guid: d0f6868ec169df24e8b56f8e6a00eea0, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -1269,26 +1314,113 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3003813956591436632, guid: d0f6868ec169df24e8b56f8e6a00eea0, type: 3}
-      propertyPath: m_Text
-      value: Hear that? That's an enemy wandering nearby. Use your hearing to navigate
-        around them. If they see you they will charge at you. Freeze them in place
-        with the flashlight and run!
-      objectReference: {fileID: 0}
-    - target: {fileID: 3003813956591436632, guid: d0f6868ec169df24e8b56f8e6a00eea0, type: 3}
-      propertyPath: m_FontData.m_MinSize
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3003813956591436632, guid: d0f6868ec169df24e8b56f8e6a00eea0, type: 3}
-      propertyPath: m_FontData.m_FontSize
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 3003813956591436632, guid: d0f6868ec169df24e8b56f8e6a00eea0, type: 3}
-      propertyPath: m_FontData.m_LineSpacing
-      value: 1.06
-      objectReference: {fileID: 0}
+    - target: {fileID: 3003813956591436634, guid: d0f6868ec169df24e8b56f8e6a00eea0, type: 3}
+      propertyPath: _textSFX
+      value: 
+      objectReference: {fileID: 8300000, guid: 2287712046221c040a89a34d0cb08a06, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d0f6868ec169df24e8b56f8e6a00eea0, type: 3}
+--- !u!1 &3003813955119440022 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3003813956591436638, guid: d0f6868ec169df24e8b56f8e6a00eea0, type: 3}
+  m_PrefabInstance: {fileID: 3003813955119440021}
+  m_PrefabAsset: {fileID: 0}
+--- !u!82 &3003813955119440023
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3003813955119440022}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 0.1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1001 &7610664942158899927
 PrefabInstance:
   m_ObjectHideFlags: 0

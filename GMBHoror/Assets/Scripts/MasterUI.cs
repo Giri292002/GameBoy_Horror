@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
+[RequireComponent(typeof(AudioSource))]
 public class MasterUI : MonoBehaviour
 {
     [SerializeField]
@@ -17,7 +18,13 @@ public class MasterUI : MonoBehaviour
 
     public GameObject Credits;
 
+    public AudioSource _source;
 
+    public void PlaySound(AudioClip clip)
+    {
+        _source.clip = clip;
+        _source.Play();
+    }
 
     public void GoToLevel(string LevelName)
     {
